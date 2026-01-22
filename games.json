@@ -6,7 +6,7 @@
   },
   {
     "name": "Mimesis",
-    "app_id": 123456,
-    "lua": "plugins/123456.lua"
+    "app_id": 2827200,
+    "lua": "plugins/2827200.lua"
   }
 ]
