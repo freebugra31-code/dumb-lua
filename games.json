@@ -1,4 +1,12 @@
-{
-    "1174180": "Red Dead Redemption 2"
-    "2827200": "MIMESIS"
-}
+[
+  {
+    "name": "Red Dead Redemption 2",
+    "app_id": 1174180,
+    "lua": "plugins/1174180.lua"
+  },
+  {
+    "name": "Mimesis",
+    "app_id": 123456,
+    "lua": "plugins/123456.lua"
+  }
+]
