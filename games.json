@@ -8,5 +8,10 @@
     "name": "Mimesis",
     "app_id": 2827200,
     "lua": "plugins/2827200.lua"
+  },
+  {
+    "name": "Project Zomboid",
+    "app_id": 108600,
+    "lua": "plugins/108600.lua"
   }
 ]
