@@ -18,5 +18,10 @@
     "name": "Assassins Creed Odyssey",
     "app_id": 812140,
     "lua": "plugins/812140.lua"
+  },
+  {
+    "name": "Entity: The Black Day",
+    "app_id": 2517220,
+    "lua": "plugins/2517220.lua"
   }
 ]
