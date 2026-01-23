@@ -253,5 +253,565 @@
     "name": "Dying Light: The Beast",
     "app_id": 3008130,
     "lua": "plugins/3008130.lua"
+  },
+  {
+    "name": "Escape Simulator",
+    "app_id": 1435790,
+    "lua": "plugins/1435790.lua"
+  },
+  {
+    "name": "Escape Simulator 2",
+    "app_id": 2879840,
+    "lua": "plugins/2879840.lua"
+  },
+  {
+    "name": "Backseat Drivers",
+    "app_id": 3558400,
+    "lua": "plugins/3558400.lua"
+  },
+  {
+    "name": "Jurassic World Evolution 3",
+    "app_id": 2958130,
+    "lua": "plugins/2958130.lua"
+  },
+  {
+    "name": "Fever Meme",
+    "app_id": 3110070,
+    "lua": "plugins/3110070.lua"
+  },
+  {
+    "name": "Hades II",
+    "app_id": 1145350,
+    "lua": "plugins/1145350.lua"
+  },
+  {
+    "name": "SILENT HILL 2",
+    "app_id": 214490,
+    "lua": "plugins/214490.lua"
+  },
+  {
+    "name": "Liar's Bars",
+    "app_id": 3097560,
+    "lua": "plugins/3097560.lua"
+  },
+  {
+    "name": "YoloMouse",
+    "app_id": 1283970,
+    "lua": "plugins/1283970.lua"
+  },
+  {
+    "name": "Lethal Company",
+    "app_id": 1966720,
+    "lua": "plugins/1966720.lua"
+  },
+  {
+    "name": "Phasmophobia",
+    "app_id": 739630,
+    "lua": "plugins/739630.lua"
+  },
+  {
+    "name": "GONE Fishing",
+    "app_id": 3645890,
+    "lua": "plugins/3645890.lua"
+  },
+  {
+    "name": "Wallpaper Engine",
+    "app_id": 431960,
+    "lua": "plugins/431960.lua"
+  },
+  {
+    "name": "EA SPORTS FC™ 26",
+    "app_id": 3405690,
+    "lua": "plugins/3405690.lua"
+  },
+  {
+    "name": "SILENT HILL f",
+    "app_id": 2947440,
+    "lua": "plugins/2947440.lua"
+  },
+  {
+    "name": "Jump Space",
+    "app_id": 1757300,
+    "lua": "plugins/1757300.lua"
+  },
+  {
+    "name": "Maltese's Fluffy Onsen",
+    "app_id": 3404470,
+    "lua": "plugins/3404470.lua"
+  },
+  {
+    "name": "Police Simulator: Patrol Officers",
+    "app_id": 997010,
+    "lua": "plugins/997010.lua"
+  },
+  {
+    "name": "theHunter: Call of the Wild™",
+    "app_id": 518790,
+    "lua": "plugins/518790.lua"
+  },
+  {
+    "name": "Fuel Harvest Together",
+    "app_id": 3441460,
+    "lua": "plugins/3441460.lua"
+  },
+  {
+    "name": "Path of Exile 2",
+    "app_id": 2694490,
+    "lua": "plugins/2694490.lua"
+  },
+  {
+    "name": "Animal Shelter 2",
+    "app_id": 2658510,
+    "lua": "plugins/2658510.lua"
+  },
+  {
+    "name": "Toy Story 3",
+    "app_id": 300820,
+    "lua": "plugins/300820.lua"
+  },
+  {
+    "name": "ELDEN RING NIGHTREIGN",
+    "app_id": 2622380,
+    "lua": "plugins/2622380.lua"
+  },
+  {
+    "name": "ELDEN RING",
+    "app_id": 1245620,
+    "lua": "plugins/1245620.lua"
+  },
+  {
+    "name": "MechWarrior 5: Mercenaries",
+    "app_id": 784080,
+    "lua": "plugins/784080.lua"
+  },
+  {
+    "name": "No Man's Sky",
+    "app_id": 275850,
+    "lua": "plugins/275850.lua"
+  },
+  {
+    "name": "The Quarry",
+    "app_id": 1577120,
+    "lua": "plugins/1577120.lua"
+  },
+  {
+    "name": "Nuclear Nightmare",
+    "app_id": 2909110,
+    "lua": "plugins/2909110.lua"
+  },
+  {
+    "name": "Deep Rock Galactic",
+    "app_id": 548430,
+    "lua": "plugins/548430.lua"
+  },
+  {
+    "name": "Valheim",
+    "app_id": 892970,
+    "lua": "plugins/892970.lua"
+  },
+  {
+    "name": "Subnautica",
+    "app_id": 264710,
+    "lua": "plugins/264710.lua"
+  },
+  {
+    "name": "Mount & Blade II: Bannerlord",
+    "app_id": 261550,
+    "lua": "plugins/261550.lua"
+  },
+  {
+    "name": "Tom Clancy's Splinter Cell: Conviction",
+    "app_id": 33220,
+    "lua": "plugins/33220.lua"
+  },
+  {
+    "name": "Tom Clancy's Splinter Cell Blacklist",
+    "app_id": 235600,
+    "lua": "plugins/235600.lua"
+  },
+  {
+    "name": "Sackboy™: A Big Adventure",
+    "app_id": 1599660,
+    "lua": "plugins/1599660.lua"
+  },
+  {
+    "name": "Wobbly Life",
+    "app_id": 1211020,
+    "lua": "plugins/1211020.lua"
+  },
+  {
+    "name": "The Karters 2: Turbo Charged",
+    "app_id": 2269950,
+    "lua": "plugins/2269950.lua"
+  },
+  {
+    "name": "Revenge of the Savage Planet",
+    "app_id": 2787320,
+    "lua": "plugins/2787320.lua"
+  },
+  {
+    "name": "Dark Hours",
+    "app_id": 2208570,
+    "lua": "plugins/2208570.lua"
+  },
+  {
+    "name": "Hell is Us",
+    "app_id": 1620730,
+    "lua": "plugins/1620730.lua"
+  },
+  {
+    "name": "Human Fall Flat",
+    "app_id": 477160,
+    "lua": "plugins/477160.lua"
+  },
+  {
+    "name": "Cooking Simulator",
+    "app_id": 641320,
+    "lua": "plugins/641320.lua"
+  },
+  {
+    "name": "Tiny Glade",
+    "app_id": 2198150,
+    "lua": "plugins/2198150.lua"
+  },
+  {
+    "name": "Hollow Knight: Silksong",
+    "app_id": 1030300,
+    "lua": "plugins/1030300.lua"
+  },
+  {
+    "name": "Tiny Bookshop",
+    "app_id": 2133760,
+    "lua": "plugins/2133760.lua"
+  },
+  {
+    "name": "PowerWash Simulator",
+    "app_id": 1290000,
+    "lua": "plugins/1290000.lua"
+  },
+  {
+    "name": "KovaaK's",
+    "app_id": 824270,
+    "lua": "plugins/824270.lua"
+  },
+  {
+    "name": "DAVE THE DIVER",
+    "app_id": 1868140,
+    "lua": "plugins/1868140.lua"
+  },
+  {
+    "name": "Backrooms Rec.",
+    "app_id": 2275020,
+    "lua": "plugins/2275020.lua"
+  },
+  {
+    "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2",
+    "app_id": 2928600,
+    "lua": "plugins/2928600.lua"
+  },
+  {
+    "name": "Schedule I",
+    "app_id": 3164500,
+    "lua": "plugins/3164500.lua"
+  },
+  {
+    "name": "Need for Speed™ Rivals",
+    "app_id": 1262600,
+    "lua": "plugins/1262600.lua"
+  },
+  {
+    "name": "HITMAN World of Assassination",
+    "app_id": 1659040,
+    "lua": "plugins/1659040.lua"
+  },
+  {
+    "name": "Call of Duty: Modern Warfare Remastered (2017)",
+    "app_id": 393080,
+    "lua": "plugins/393080.lua"
+  },
+  {
+    "name": "Call of Duty (2003)",
+    "app_id": 2620,
+    "lua": "plugins/2620.lua"
+  },
+  {
+    "name": "Call of Duty 4: Modern Warfare (2007)",
+    "app_id": 7940,
+    "lua": "plugins/7940.lua"
+  },
+  {
+    "name": "Call of Duty: Modern Warfare 2 (2009)",
+    "app_id": 10180,
+    "lua": "plugins/10180.lua"
+  },
+  {
+    "name": "Call of Duty: Black Ops",
+    "app_id": 42700,
+    "lua": "plugins/42700.lua"
+  },
+  {
+    "name": "Call of Duty: Black Ops II",
+    "app_id": 202970,
+    "lua": "plugins/202970.lua"
+  },
+  {
+    "name": "Call of Duty: Ghosts",
+    "app_id": 209160,
+    "lua": "plugins/209160.lua"
+  },
+  {
+    "name": "Call of Duty: Black Ops III",
+    "app_id": 311210,
+    "lua": "plugins/311210.lua"
+  },
+  {
+    "name": "Call of Duty: WWII",
+    "app_id": 476600,
+    "lua": "plugins/476600.lua"
+  },
+  {
+    "name": "Call of Duty: Infinite Warfare",
+    "app_id": 292730,
+    "lua": "plugins/292730.lua"
+  },
+  {
+    "name": "Call of Duty®: Modern Warfare® II",
+    "app_id": 3595230,
+    "lua": "plugins/3595230.lua"
+  },
+  {
+    "name": "Call of Duty®",
+    "app_id": 1938090,
+    "lua": "plugins/1938090.lua"
+  },
+  {
+    "name": "Call of Duty®: Black Ops Cold War",
+    "app_id": 1985810,
+    "lua": "plugins/1985810.lua"
+  },
+  {
+    "name": "Call of Duty®: Black Ops 6",
+    "app_id": 2933620,
+    "lua": "plugins/2933620.lua"
+  },
+  {
+    "name": "METAL GEAR SOLID Δ: SNAKE EATER",
+    "app_id": 2417610,
+    "lua": "plugins/2417610.lua"
+  },
+  {
+    "name": "The Crew Motorfest",
+    "app_id": 2698940,
+    "lua": "plugins/2698940.lua"
+  },
+  {
+    "name": "Ultimate Chicken Horse",
+    "app_id": 386940,
+    "lua": "plugins/386940.lua"
+  },
+  {
+    "name": "Marvel's Spider-Man: Miles Morales",
+    "app_id": 1817190,
+    "lua": "plugins/1817190.lua"
+  },
+  {
+    "name": "Carry The Glass",
+    "app_id": 3263320,
+    "lua": "plugins/3263320.lua"
+  },
+  {
+    "name": "Fast Food Simulator",
+    "app_id": 2916430,
+    "lua": "plugins/2916430.lua"
+  },
+  {
+    "name": "Granny: Escape Together",
+    "app_id": 3070520,
+    "lua": "plugins/3070520.lua"
+  },
+  {
+    "name": "Cartel Tycoon",
+    "app_id": 1220140,
+    "lua": "plugins/1220140.lua"
+  },
+  {
+    "name": "Pushing it! Together - Sisyphus Co-op",
+    "app_id": 3298460,
+    "lua": "plugins/3298460.lua"
+  },
+  {
+    "name": "Lost But Found",
+    "app_id": 3204250,
+    "lua": "plugins/3204250.lua"
+  },
+  {
+    "name": "Sticky Business",
+    "app_id": 2303350,
+    "lua": "plugins/2303350.lua"
+  },
+  {
+    "name": "Frog Jump",
+    "app_id": 3448750,
+    "lua": "plugins/3448750.lua"
+  },
+  {
+    "name": "Ship, Inc.",
+    "app_id": 3496000,
+    "lua": "plugins/3496000.lua"
+  },
+  {
+    "name": "Camper Van: Make it Home",
+    "app_id": 2843190,
+    "lua": "plugins/2843190.lua"
+  },
+  {
+    "name": "KeyWe",
+    "app_id": 1242980,
+    "lua": "plugins/1242980.lua"
+  },
+  {
+    "name": "Blanc",
+    "app_id": 1982340,
+    "lua": "plugins/1982340.lua"
+  },
+  {
+    "name": "Bread & Fred",
+    "app_id": 1607680,
+    "lua": "plugins/1607680.lua"
+  },
+  {
+    "name": "Grand Theft Auto III - The Definitive Edition",
+    "app_id": 1546970,
+    "lua": "plugins/1546970.lua"
+  },
+  {
+    "name": "Grand Theft Auto: Vice City",
+    "app_id": 12110,
+    "lua": "plugins/12110.lua"
+  },
+  {
+    "name": "The Mortuary Assistant",
+    "app_id": 1295920,
+    "lua": "plugins/1295920.lua"
+  },
+  {
+    "name": "Grand Theft Auto V Enhanced",
+    "app_id": 3240220,
+    "lua": "plugins/3240220.lua"
+  },
+  {
+    "name": "Backrooms: Extractions",
+    "app_id": 2835530,
+    "lua": "plugins/2835530.lua"
+  },
+  {
+    "name": "Grounded 2",
+    "app_id": 2661300,
+    "lua": "plugins/2661300.lua"
+  },
+  {
+    "name": "Old Market Simulator",
+    "app_id": 2878420,
+    "lua": "plugins/2878420.lua"
+  },
+  {
+    "name": "The Walking Dead: The Telltale Definitive Series",
+    "app_id": 1449690,
+    "lua": "plugins/1449690.lua"
+  },
+  {
+    "name": "Date or Destiny: Kiss or Miss",
+    "app_id": 2127030,
+    "lua": "plugins/2127030.lua"
+  },
+  {
+    "name": "City Car Driving",
+    "app_id": 493490,
+    "lua": "plugins/493490.lua"
+  },
+  {
+    "name": "Assassin's Creed Brotherhood",
+    "app_id": 48190,
+    "lua": "plugins/48190.lua"
+  },
+  {
+    "name": "Assassin's Creed II",
+    "app_id": 33230,
+    "lua": "plugins/33230.lua"
+  },
+  {
+    "name": "DEATH STRANDING DIRECTOR'S CUT",
+    "app_id": 1850570,
+    "lua": "plugins/1850570.lua"
+  },
+  {
+    "name": "Marvel’s Spider-Man Remastered",
+    "app_id": 1817070,
+    "lua": "plugins/1817070.lua"
+  },
+  {
+    "name": "Five Nights at Freddy's: Secret of the Mimic",
+    "app_id": 2215390,
+    "lua": "plugins/2215390.lua"
+  },
+  {
+    "name": "A Plague Tale: Innocence",
+    "app_id": 752590,
+    "lua": "plugins/752590.lua"
+  },
+  {
+    "name": "GTR - FIA GT Racing Game",
+    "app_id": 44600,
+    "lua": "plugins/44600.lua"
+  },
+  {
+    "name": "Bank Simulator",
+    "app_id": 3355800,
+    "lua": "plugins/3355800.lua"
+  },
+  {
+    "name": "Half-Life: Alyx",
+    "app_id": 546560,
+    "lua": "plugins/546560.lua"
+  },
+  {
+    "name": "Grand Theft Auto IV: The Complete Edition",
+    "app_id": 12210,
+    "lua": "plugins/12210.lua"
+  },
+  {
+    "name": "Forza Horizon 4",
+    "app_id": 1293830,
+    "lua": "plugins/1293830.lua"
+  },
+  {
+    "name": "Soundpad",
+    "app_id": 629520,
+    "lua": "plugins/629520.lua"
+  },
+  {
+    "name": "Kindergarten 3",
+    "app_id": 2695570,
+    "lua": "plugins/2695570.lua"
+  },
+  {
+    "name": "BLADECHIMERA",
+    "app_id": 2671230,
+    "lua": "plugins/2671230.lua"
+  },
+  {
+    "name": "CatTuber",
+    "app_id": 1337970,
+    "lua": "plugins/1337970.lua"
+  },
+  {
+    "name": "Amber Alert",
+    "app_id": 3019800,
+    "lua": "plugins/3019800.lua"
+  },
+  {
+    "name": "SCP: Descent",
+    "app_id": 2757220,
+    "lua": "plugins/2757220.lua"
   }
 ]

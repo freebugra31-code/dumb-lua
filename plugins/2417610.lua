@@ -1,0 +1,12 @@
+addappid(2417611,0,"9a9b7b9956ecfecde761c3ec639b3c9efcc0e38d3b11a153d66014a015a8004d")
+addtoken(2881290,"17676168364810778620")
+addtoken(3364840,"6792383297371870615")
+setManifestid(2417611,"6371514537475457717")
+addappid(2417610)
+addappid(2881290)
+addappid(3364840)
+
+--[[
+This file Generated using fares.top Website 
+-----> join discord Server : https://discord.gg/steamgames 
+]]
