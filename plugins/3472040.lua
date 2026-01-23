@@ -1,0 +1,11 @@
+-- Downloaded using DepotBox - https://depotbox.org/
+-- Original file: 3472040.lua
+addappid(3472040)
+addappid(3472042,0,"34db1ecbd759eab0b3e63e7304bc8fe901b1ca351a3d453affb865d97c5e62be")
+setManifestid(3472042, "3664360034468977863")
+addappid(3472041,0,"98720ddedf5fb5a37faf70ca90602a9949e727a7f7b6b9171ecc2764ee2d3b21")
+setManifestid(3472041, "5031938375392479959")
+addappid(228988,0,"1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74f8358")
+setManifestid(228988,"6645201662696499616")
+addappid(228990,0,"44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8")
+setManifestid(228990,"1829726630299308803")

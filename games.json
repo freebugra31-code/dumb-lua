@@ -15,7 +15,7 @@
     "lua": "plugins/108600.lua"
   },
   {
-    "name": "Assassin's Creed Odyssey",
+    "name": "Assassins Creed Odyssey",
     "app_id": 812140,
     "lua": "plugins/812140.lua"
   },
@@ -43,5 +43,215 @@
     "name": "Backrooms: Escape Together",
     "app_id": 2141730,
     "lua": "plugins/2141730.lua"
+  },
+  {
+    "name": "House Flipper 2",
+    "app_id": 1190970,
+    "lua": "plugins/1190970.lua"
+  },
+  {
+    "name": "Cast n Chill",
+    "app_id": 3483740,
+    "lua": "plugins/3483740.lua"
+  },
+  {
+    "name": "Yakuza 0 Director's Cut",
+    "app_id": 2988580,
+    "lua": "plugins/2988580.lua"
+  },
+  {
+    "name": "Poppy Playtime - Chapter 4",
+    "app_id": 3008670,
+    "lua": "plugins/3008670.lua"
+  },
+  {
+    "name": "Poppy Playtime - Chapter 2",
+    "app_id": 1817490,
+    "lua": "plugins/1817490.lua"
+  },
+  {
+    "name": "Poppy Playtime - Chapter 3",
+    "app_id": 2555190,
+    "lua": "plugins/2555190.lua"
+  },
+  {
+    "name": "Maneater",
+    "app_id": 629820,
+    "lua": "plugins/629820.lua"
+  },
+  {
+    "name": "Wattam",
+    "app_id": 702680,
+    "lua": "plugins/702680.lua"
+  },
+  {
+    "name": "Rayman Legends",
+    "app_id": 242550,
+    "lua": "plugins/242550.lua"
+  },
+  {
+    "name": "Unravel Two",
+    "app_id": 1225570,
+    "lua": "plugins/1225570.lua"
+  },
+  {
+    "name": "R.E.P.O.",
+    "app_id": 3241660,
+    "lua": "plugins/3241660.lua"
+  },
+  {
+    "name": "Assassin's Creed Mirage",
+    "app_id": 3035570,
+    "lua": "plugins/3035570.lua"
+  },
+  {
+    "name": "Euro Truck Simulator 2",
+    "app_id": 227300,
+    "lua": "plugins/227300.lua"
+  },
+  {
+    "name": "Riders Republic",
+    "app_id": 2290180,
+    "lua": "plugins/2290180.lua"
+  },
+  {
+    "name": "Rusty Lake Paradise",
+    "app_id": 744190,
+    "lua": "plugins/744190.lua"
+  },
+  {
+    "name": "Rusty Lake: Roots",
+    "app_id": 532110,
+    "lua": "plugins/532110.lua"
+  },
+  {
+    "name": "Deadpool",
+    "app_id": 224060,
+    "lua": "plugins/224060.lua"
+  },
+  {
+    "name": "Cities: Skylines",
+    "app_id": 255710,
+    "lua": "plugins/255710.lua"
+  },
+  {
+    "name": "Cyberpunk 2077",
+    "app_id": 1091500,
+    "lua": "plugins/1091500.lua"
+  },
+  {
+    "name": "Card Shark",
+    "app_id": 1371720,
+    "lua": "plugins/1371720.lua"
+  },
+  {
+    "name": "Storage Hunter",
+    "app_id": 1442430,
+    "lua": "plugins/1442430.lua"
+  },
+  {
+    "name": "Battlefield™ 6",
+    "app_id": 2807960,
+    "lua": "plugins/2807960.lua"
+  },
+  {
+    "name": "NBA 2K25",
+    "app_id": 2878980,
+    "lua": "plugins/2878980.lua"
+  },
+  {
+    "name": "NBA 2K26",
+    "app_id": 3472040,
+    "lua": "plugins/3472040.lua"
+  },
+  {
+    "name": "Red Dead Redemption",
+    "app_id": 2668510,
+    "lua": "plugins/2668510.lua"
+  },
+  {
+    "name": "Mafia: The Old Country",
+    "app_id": 1941540,
+    "lua": "plugins/1941540.lua"
+  },
+  {
+    "name": "Grand Theft Auto: Vice City - The Definitive Edition",
+    "app_id": 1546990,
+    "lua": "plugins/1546990.lua"
+  },
+  {
+    "name": "Dispatch",
+    "app_id": 2592160,
+    "lua": "plugins/2592160.lua"
+  },
+  {
+    "name": "Buckshot Roulette",
+    "app_id": 2835570,
+    "lua": "plugins/2835570.lua"
+  },
+  {
+    "name": "Cuphead",
+    "app_id": 268910,
+    "lua": "plugins/268910.lua"
+  },
+  {
+    "name": "Kingdom Come: Deliverance II",
+    "app_id": 1771300,
+    "lua": "plugins/1771300.lua"
+  },
+  {
+    "name": "Ready or Not",
+    "app_id": 1144200,
+    "lua": "plugins/1144200.lua"
+  },
+  {
+    "name": "A Way Out",
+    "app_id": 1222700,
+    "lua": "plugins/1222700.lua"
+  },
+  {
+    "name": "Cyberpunk 2077: Phantom Liberty",
+    "app_id": 2138330,
+    "lua": "plugins/2138330.lua"
+  },
+  {
+    "name": "Wrap House Simulator🌯",
+    "app_id": 3533100,
+    "lua": "plugins/35331000.lua"
+  },
+  {
+    "name": "Anno 117: Pax Romana",
+    "app_id": 3274580,
+    "lua": "plugins/3274580.lua"
+  },
+  {
+    "name": "MISERY",
+    "app_id": 2119830,
+    "lua": "plugins/2119830.lua"
+  },
+  {
+    "name": "The Crew 2",
+    "app_id": 646910,
+    "lua": "plugins/646910.lua"
+  },
+  {
+    "name": "Steep",
+    "app_id": 460920,
+    "lua": "plugins/460920.lua"
+  },
+  {
+    "name": "F1 Race Stars",
+    "app_id": 203680,
+    "lua": "plugins/203680.lua"
+  },
+  {
+    "name": "Game Dev Tycoon",
+    "app_id": 239820,
+    "lua": "plugins/239820.lua"
+  },
+  {
+    "name": "Dying Light: The Beast",
+    "app_id": 3008130,
+    "lua": "plugins/3008130.lua"
   }
 ]

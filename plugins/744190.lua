@@ -1,0 +1,14 @@
+-- 744190's Lua and Manifest Created by Morrenus
+-- Rusty Lake Paradise
+-- Created: September 30, 2025 at 11:50:42 EDT
+-- Website: https://manifest.morrenus.xyz/
+-- Total Depots: 2
+-- Total DLCs: 0
+
+-- MAIN APPLICATION
+addappid(744190) -- Rusty Lake Paradise
+-- MAIN APP DEPOTS
+addappid(744191, 1, "23c8d767c0f6eb65130f7f4d1b17a821c73ab08520411c785db71584d920f51e") -- Rusty Lake Paradise Content
+setManifestid(744191, "758665064526859179")
+addappid(744192, 1, "2ac800bc1a523ae8e3329b743e19e716f4ec3149444f7c2d3e2b9b90b083999f") -- Depot: Rusty Lake Paradise MAC
+setManifestid(744192, "8864103976729779052")
