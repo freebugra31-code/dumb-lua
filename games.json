@@ -813,5 +813,315 @@
     "name": "SCP: Descent",
     "app_id": 2757220,
     "lua": "plugins/2757220.lua"
+  },
+  {
+    "name": "Movies Tycoon",
+    "app_id": 2659050,
+    "lua": "plugins/2659050.lua"
+  },
+  {
+    "name": "Dungeon Tycoon",
+    "app_id": 2400770,
+    "lua": "plugins/2400770.lua"
+  },
+  {
+    "name": "The Executive - Movie Industry Tycoon",
+    "app_id": 2315430,
+    "lua": "plugins/2315430.lua"
+  },
+  {
+    "name": "iblis",
+    "app_id": 1588870,
+    "lua": "plugins/1588870.lua"
+  },
+  {
+    "name": "Fishing Sim World®: Pro Tour",
+    "app_id": 834280,
+    "lua": "plugins/834280.lua"
+  },
+  {
+    "name": "Call of the Wild: The Angler™",
+    "app_id": 1408610,
+    "lua": "plugins/1408610.lua"
+  },
+  {
+    "name": "Ice Lakes",
+    "app_id": 393430,
+    "lua": "plugins/393430.lua"
+  },
+  {
+    "name": "Slay the Princess — The Pristine Cut",
+    "app_id": 1989270,
+    "lua": "plugins/1989270.lua"
+  },
+  {
+    "name": "Deadliest Catch: The Game",
+    "app_id": 838630,
+    "lua": "plugins/838630.lua"
+  },
+  {
+    "name": "Fishing: North Atlantic",
+    "app_id": 1264250,
+    "lua": "plugins/1264250.lua"
+  },
+  {
+    "name": "Ships At Sea",
+    "app_id": 1266540,
+    "lua": "plugins/1266540.lua"
+  },
+  {
+    "name": "Valiant Hearts: Coming Home",
+    "app_id": 2741360,
+    "lua": "plugins/2741360.lua"
+  },
+  {
+    "name": "BMX Streets",
+    "app_id": 871540,
+    "lua": "plugins/871540.lua"
+  },
+  {
+    "name": "TRADER LIFE SIMULATOR",
+    "app_id": 1415660,
+    "lua": "plugins/1415660.lua"
+  },
+  {
+    "name": "FPV LOGIC",
+    "app_id": 2398030,
+    "lua": "plugins/2398030.lua"
+  },
+  {
+    "name": "White Day 2: The Flower That Tells Lies - Complete Edition",
+    "app_id": 2078040,
+    "lua": "plugins/2078040.lua"
+  },
+  {
+    "name": "White Day: A Labyrinth Named School",
+    "app_id": 466130,
+    "lua": "plugins/466130.lua"
+  },
+  {
+    "name": "Hearts of Iron IV",
+    "app_id": 394360,
+    "lua": "plugins/394360.lua"
+  },
+  {
+    "name": "Lossless Scaling",
+    "app_id": 993090,
+    "lua": "plugins/993090.lua"
+  },
+  {
+    "name": "Tape to Tape",
+    "app_id": 1566200,
+    "lua": "plugins/1566200.lua"
+  },
+  {
+    "name": "Total War: ROME II - Emperor Edition",
+    "app_id": 214950,
+    "lua": "plugins/214950.lua"
+  },
+  {
+    "name": "Ghost Recon Breakpoint",
+    "app_id": 2231380,
+    "lua": "plugins/2231380.lua"
+  },
+  {
+    "name": "Unrailed 2: Back on Track",
+    "app_id": 2211170,
+    "lua": "plugins/2211170.lua"
+  },
+  {
+    "name": "Unrailed!",
+    "app_id": 1016920,
+    "lua": "plugins/1016920.lua"
+  },
+  {
+    "name": "Two Point Campus",
+    "app_id": 1649080,
+    "lua": "plugins/1649080.lua"
+  },
+  {
+    "name": "Dune: Awakening",
+    "app_id": 1172710,
+    "lua": "plugins/1172710.lua"
+  },
+  {
+    "name": "Battlefield: Bad Company™ 2",
+    "app_id": 24960,
+    "lua": "plugins/24960.lua"
+  },
+  {
+    "name": "The Walking Dead: The Final Season",
+    "app_id": 866800,
+    "lua": "plugins/866800.lua"
+  },
+  {
+    "name": "The Walking Dead: A New Frontier",
+    "app_id": 536220,
+    "lua": "plugins/536220.lua"
+  },
+  {
+    "name": "Power & Revolution 2023 Edition",
+    "app_id": 2392520,
+    "lua": "plugins/2392520.lua"
+  },
+  {
+    "name": "Construction Simulator",
+    "app_id": 1273400,
+    "lua": "plugins/1273400.lua"
+  },
+  {
+    "name": "Stellar Blade™",
+    "app_id": 3489700,
+    "lua": "plugins/3489700.lua"
+  },
+  {
+    "name": "Amenti",
+    "app_id": 3292260,
+    "lua": "plugins/3292260.lua"
+  },
+  {
+    "name": "City Transport Simulator",
+    "app_id": 2604480,
+    "lua": "plugins/2604480.lua"
+  },
+  {
+    "name": "Green Hell",
+    "app_id": 815370,
+    "lua": "plugins/815370.lua"
+  },
+  {
+    "name": "MindsEye",
+    "app_id": 3265250,
+    "lua": "plugins/3265250.lua"
+  },
+  {
+    "name": "POPUCOM",
+    "app_id": 2543180,
+    "lua": "plugins/2543180.lua"
+  },
+  {
+    "name": "ContractVille",
+    "app_id": 2698780,
+    "lua": "plugins/2698780.lua"
+  },
+  {
+    "name": "Kingdom Two Crowns",
+    "app_id": 701160,
+    "lua": "plugins/701160.lua"
+  },
+  {
+    "name": "The Walking Dead: Season Two",
+    "app_id": 261030,
+    "lua": "plugins/261030.lua"
+  },
+  {
+    "name": "The Walking Dead",
+    "app_id": 207610,
+    "lua": "plugins/207610.lua"
+  },
+  {
+    "name": "TRYP FPV",
+    "app_id": 1881200,
+    "lua": "plugins/1881200.lua"
+  },
+  {
+    "name": "WWE 2K18",
+    "app_id": 664430,
+    "lua": "plugins/664430.lua"
+  },
+  {
+    "name": "Phoenix Wright: Ace Attorney Trilogy",
+    "app_id": 787480,
+    "lua": "plugins/787480.lua"
+  },
+  {
+    "name": "eFootball PES 2021 SEASON UPDATE",
+    "app_id": 1259970,
+    "lua": "plugins/1259970.lua"
+  },
+  {
+    "name": "Computer Tycoon",
+    "app_id": 686680,
+    "lua": "plugins/686680.lua"
+  },
+  {
+    "name": "FIVE NIGHTS AT FREDDY'S: HELP WANTED",
+    "app_id": 732690,
+    "lua": "plugins/732690.lua"
+  },
+  {
+    "name": "Jalopy",
+    "app_id": 446020,
+    "lua": "plugins/446020.lua"
+  },
+  {
+    "name": "Copycat",
+    "app_id": 1622350,
+    "lua": "plugins/1622350.lua"
+  },
+  {
+    "name": "Need for Speed™ Heat",
+    "app_id": 1222680,
+    "lua": "plugins/1222680.lua"
+  },
+  {
+    "name": "Fernbus Simulator",
+    "app_id": 427100,
+    "lua": "plugins/427100.lua"
+  },
+  {
+    "name": "Assetto Corsa",
+    "app_id": 244210,
+    "lua": "plugins/244210.lua"
+  },
+  {
+    "name": "The Sapling",
+    "app_id": 997380,
+    "lua": "plugins/997380.lua"
+  },
+  {
+    "name": "Golden Lap",
+    "app_id": 2052040,
+    "lua": "plugins/2052040.lua"
+  },
+  {
+    "name": "Grand Theft Auto V Legacy",
+    "app_id": 271590,
+    "lua": "plugins/271590.lua"
+  },
+  {
+    "name": "Only Way is Down",
+    "app_id": 2804680,
+    "lua": "plugins/2804680.lua"
+  },
+  {
+    "name": "Wolfenstein: Youngblood",
+    "app_id": 1056960,
+    "lua": "plugins/1056960.lua"
+  },
+  {
+    "name": "Not For Broadcast",
+    "app_id": 1147550,
+    "lua": "plugins/1147550.lua"
+  },
+  {
+    "name": "Aka Manto | 赤マント",
+    "app_id": 1130620,
+    "lua": "plugins/1130620.lua"
+  },
+  {
+    "name": "Fields of Mistria",
+    "app_id": 2142790,
+    "lua": "plugins/2142790.lua"
+  },
+  {
+    "name": "Chef RPG",
+    "app_id": 1796790,
+    "lua": "plugins/1796790.lua"
+  },
+  {
+    "name": "Reverse Problem",
+    "app_id": 3355020,
+    "lua": "plugins/3355020.lua"
   }
 ]
