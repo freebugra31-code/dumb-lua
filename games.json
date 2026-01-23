@@ -23,5 +23,25 @@
     "name": "Entity: The Black Day",
     "app_id": 2517220,
     "lua": "plugins/2517220.lua"
+  },
+  {
+    "name": "Forza Horizon 5",
+    "app_id": 1551360,
+    "lua": "plugins/1551360.lua"
+  },
+  {
+    "name": "RV There Yet?",
+    "app_id": 3949040,
+    "lua": "plugins/3949040.lua"
+  },
+  {
+    "name": "Stranded Deep",
+    "app_id": 313120,
+    "lua": "plugins/313120.lua"
+  },
+  {
+    "name": "Backrooms: Escape Together",
+    "app_id": 2141730,
+    "lua": "plugins/2141730.lua"
   }
 ]
