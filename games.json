@@ -13,5 +13,10 @@
     "name": "Project Zomboid",
     "app_id": 108600,
     "lua": "plugins/108600.lua"
+  },
+  {
+    "name": "Assassin's Creed Odyssey",
+    "app_id": 812140,
+    "lua": "plugins/812140.lua"
   }
 ]
