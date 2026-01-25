@@ -1983,5 +1983,10 @@
     "name": "Truck and Logistics Simulator",
     "app_id": 873840,
     "lua": "plugins/873840.lua"
+  },
+  {
+    "name": "Max Payne",
+    "app_id": 12140,
+    "lua": "plugins/12140.lua"
   }
 ]
