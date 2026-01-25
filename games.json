@@ -1378,5 +1378,610 @@
     "name": "EA SPORTS FC 25",
     "app_id": 2669320,
     "lua": "plugins/2669320.lua"
+  },
+  {
+    "name": "Monster Hunter Wilds",
+    "app_id": 2246340,
+    "lua": "plugins/2246340.lua"
+  },
+  {
+    "name": "JUMP FORCE",
+    "app_id": 816020,
+    "lua": "plugins/816020.lua"
+  },
+  {
+    "name": "Risk of Rain 2",
+    "app_id": 632360,
+    "lua": "plugins/632360.lua"
+  },
+  {
+    "name": "Another Crab's Treasure",
+    "app_id": 1887840,
+    "lua": "plugins/1887840.lua"
+  },
+  {
+    "name": "STAR WARS™ Empire at War: Gold Pack",
+    "app_id": 32470,
+    "lua": "plugins/32470.lua"
+  },
+  {
+    "name": "TrackDayR",
+    "app_id": 1511630,
+    "lua": "plugins/1511630.lua"
+  },
+  {
+    "name": "BeamNG.drive",
+    "app_id": 284160,
+    "lua": "plugins/284160.lua"
+  },
+  {
+    "name": "DYNASTY WARRIORS: ORIGINS",
+    "app_id": 2384580,
+    "lua": "plugins/2384580.lua"
+  },
+  {
+    "name": "Victoria 3",
+    "app_id": 529340,
+    "lua": "plugins/529340.lua"
+  },
+  {
+    "name": "Among Us 3D",
+    "app_id": 3168600,
+    "lua": "plugins/3168600.lua"
+  },
+  {
+    "name": "Mushroom Season",
+    "app_id": 3064670,
+    "lua": "plugins/3064670.lua"
+  },
+  {
+    "name": "Shadows of Doubt",
+    "app_id": 986130,
+    "lua": "plugins/986130.lua"
+  },
+  {
+    "name": "NEEDY GIRL OVERDOSE",
+    "app_id": 1451940,
+    "lua": "plugins/1451940.lua"
+  },
+  {
+    "name": "Arizona Sunshine® 2",
+    "app_id": 1540210,
+    "lua": "plugins/1540210.lua"
+  },
+  {
+    "name": "Untitled Goose Game",
+    "app_id": 837470,
+    "lua": "plugins/837470.lua"
+  },
+  {
+    "name": "Five Nights at Freddy's: Security Breach",
+    "app_id": 747660,
+    "lua": "plugins/747660.lua"
+  },
+  {
+    "name": "Virtual Sailor NG",
+    "app_id": 2153610,
+    "lua": "plugins/2153610.lua"
+  },
+  {
+    "name": "RoadCraft",
+    "app_id": 2104890,
+    "lua": "plugins/2104890.lua"
+  },
+  {
+    "name": "Harvest Moon: The Winds of Anthos",
+    "app_id": 2140650,
+    "lua": "plugins/2140650.lua"
+  },
+  {
+    "name": "POSTAL Redux",
+    "app_id": 401680,
+    "lua": "plugins/401680.lua"
+  },
+  {
+    "name": "Skater XL",
+    "app_id": 962730,
+    "lua": "plugins/962730.lua"
+  },
+  {
+    "name": "OMORI",
+    "app_id": 1150690,
+    "lua": "plugins/1150690.lua"
+  },
+  {
+    "name": "Enter the Gungeon",
+    "app_id": 311690,
+    "lua": "plugins/311690.lua"
+  },
+  {
+    "name": "Backpack Battles",
+    "app_id": 2427700,
+    "lua": "plugins/2427700.lua"
+  },
+  {
+    "name": "Motorsport Manager",
+    "app_id": 415200,
+    "lua": "plugins/415200.lua"
+  },
+  {
+    "name": "We Were Here Together",
+    "app_id": 865360,
+    "lua": "plugins/865360.lua"
+  },
+  {
+    "name": "Until Then",
+    "app_id": 1574820,
+    "lua": "plugins/1574820.lua"
+  },
+  {
+    "name": "Richie's Plank Experience",
+    "app_id": 517160,
+    "lua": "plugins/517160.lua"
+  },
+  {
+    "name": "Rome: Total War",
+    "app_id": 4760,
+    "lua": "plugins/4760.lua"
+  },
+  {
+    "name": "FTL: Faster Than Light",
+    "app_id": 212680,
+    "lua": "plugins/212680.lua"
+  },
+  {
+    "name": "BONEWORKS",
+    "app_id": 823500,
+    "lua": "plugins/823500.lua"
+  },
+  {
+    "name": "Mindustry",
+    "app_id": 1127400,
+    "lua": "plugins/1127400.lua"
+  },
+  {
+    "name": "To The Core",
+    "app_id": 1988550,
+    "lua": "plugins/1988550.lua"
+  },
+  {
+    "name": "RollerCoaster Tycoon® 3: Complete Edition",
+    "app_id": 1368820,
+    "lua": "plugins/1368820.lua"
+  },
+  {
+    "name": "Happy Room",
+    "app_id": 550010,
+    "lua": "plugins/550010.lua"
+  },
+  {
+    "name": "Just Dance 2017",
+    "app_id": 446560,
+    "lua": "plugins/446560.lua"
+  },
+  {
+    "name": "A Webbing Journey",
+    "app_id": 2073910,
+    "lua": "plugins/2073910.lua"
+  },
+  {
+    "name": "Anno 2205",
+    "app_id": 375910,
+    "lua": "plugins/375910.lua"
+  },
+  {
+    "name": "JDM: Japanese Drift Master",
+    "app_id": 1153410,
+    "lua": "plugins/1153410.lua"
+  },
+  {
+    "name": "Hobo: Tough Life",
+    "app_id": 632300,
+    "lua": "plugins/632300.lua"
+  },
+  {
+    "name": "Aviassembly",
+    "app_id": 2660460,
+    "lua": "plugins/2660460.lua"
+  },
+  {
+    "name": "Shovel Knight: Treasure Trove",
+    "app_id": 250760,
+    "lua": "plugins/250760.lua"
+  },
+  {
+    "name": "Max: The Curse of Brotherhood",
+    "app_id": 255390,
+    "lua": "plugins/255390.lua"
+  },
+  {
+    "name": "A Short Hike",
+    "app_id": 1055540,
+    "lua": "plugins/1055540.lua"
+  },
+  {
+    "name": "Creaks",
+    "app_id": 956030,
+    "lua": "plugins/956030.lua"
+  },
+  {
+    "name": "Ambulance Life: A Paramedic Simulator",
+    "app_id": 1926520,
+    "lua": "plugins/1926520.lua"
+  },
+  {
+    "name": "Emissary Zero",
+    "app_id": 3176060,
+    "lua": "plugins/3176060.lua"
+  },
+  {
+    "name": "9 Days",
+    "app_id": 2075720,
+    "lua": "plugins/2075720.lua"
+  },
+  {
+    "name": "Viscera Cleanup Detail",
+    "app_id": 246900,
+    "lua": "plugins/246900.lua"
+  },
+  {
+    "name": "The Expanse: A Telltale Series",
+    "app_id": 1708010,
+    "lua": "plugins/1708010.lua"
+  },
+  {
+    "name": "STAR WARS™ Battlefront™",
+    "app_id": 1237980,
+    "lua": "plugins/1237980.lua"
+  },
+  {
+    "name": "Mirror's Edge™ Catalyst",
+    "app_id": 1233570,
+    "lua": "plugins/1233570.lua"
+  },
+  {
+    "name": "House Flipper",
+    "app_id": 613100,
+    "lua": "plugins/613100.lua"
+  },
+  {
+    "name": "Battlefield™ Hardline",
+    "app_id": 1238880,
+    "lua": "plugins/1238880.lua"
+  },
+  {
+    "name": "5D Chess With Multiverse Time Travel",
+    "app_id": 1349230,
+    "lua": "plugins/1349230.lua"
+  },
+  {
+    "name": "Keep Talking and Nobody Explodes",
+    "app_id": 341800,
+    "lua": "plugins/341800.lua"
+  },
+  {
+    "name": "Plants vs. Zombies: Battle for Neighborville",
+    "app_id": 1262240,
+    "lua": "plugins/1262240.lua"
+  },
+  {
+    "name": "Totally Accurate Battle Simulator",
+    "app_id": 508440,
+    "lua": "plugins/508440.lua"
+  },
+  {
+    "name": "Castlevania: Lords of Shadow 2",
+    "app_id": 239250,
+    "lua": "plugins/239250.lua"
+  },
+  {
+    "name": "Castlevania: Lords of Shadow - Ultimate Edition",
+    "app_id": 234080,
+    "lua": "plugins/234080.lua"
+  },
+  {
+    "name": "Amazing Frog?",
+    "app_id": 332570,
+    "lua": "plugins/332570.lua"
+  },
+  {
+    "name": "Amazing Frog ? 2",
+    "app_id": 1559680,
+    "lua": "plugins/1559680.lua"
+  },
+  {
+    "name": "Painting VR",
+    "app_id": 1905940,
+    "lua": "plugins/1905940.lua"
+  },
+  {
+    "name": "MyDockFinder",
+    "app_id": 1787090,
+    "lua": "plugins/1787090.lua"
+  },
+  {
+    "name": "OUTBRK",
+    "app_id": 1107320,
+    "lua": "plugins/1107320.lua"
+  },
+  {
+    "name": "Preserve",
+    "app_id": 2109270,
+    "lua": "plugins/2109270.lua"
+  },
+  {
+    "name": "Timberborn",
+    "app_id": 1062090,
+    "lua": "plugins/1062090.lua"
+  },
+  {
+    "name": "ULTRAKILL",
+    "app_id": 1229490,
+    "lua": "plugins/1229490.lua"
+  },
+  {
+    "name": "Satisfactory",
+    "app_id": 526870,
+    "lua": "plugins/526870.lua"
+  },
+  {
+    "name": "Nubby's Number Factory",
+    "app_id": 3191030,
+    "lua": "plugins/3191030.lua"
+  },
+  {
+    "name": "SubwaySim 2",
+    "app_id": 2707070,
+    "lua": "plugins/2707070.lua"
+  },
+  {
+    "name": "Automation - The Car Company Tycoon Game",
+    "app_id": 293760,
+    "lua": "plugins/293760.lua"
+  },
+  {
+    "name": "Total War: NAPOLEON - Definitive Edition",
+    "app_id": 34030,
+    "lua": "plugins/34030.lua"
+  },
+  {
+    "name": "WARNO",
+    "app_id": 1611600,
+    "lua": "plugins/1611600.lua"
+  },
+  {
+    "name": "STORROR Parkour Pro",
+    "app_id": 3125250,
+    "lua": "plugins/3125250.lua"
+  },
+  {
+    "name": "Please, Don’t Touch Anything",
+    "app_id": 354240,
+    "lua": "plugins/354240.lua"
+  },
+  {
+    "name": "Please, Don't Touch Anything 3D",
+    "app_id": 529590,
+    "lua": "plugins/529590.lua"
+  },
+  {
+    "name": "TheoTown",
+    "app_id": 1084020,
+    "lua": "plugins/1084020.lua"
+  },
+  {
+    "name": "Sonic Generations",
+    "app_id": 71340,
+    "lua": "plugins/71340.lua"
+  },
+  {
+    "name": "NBA 2K Playgrounds 2",
+    "app_id": 726590,
+    "lua": "plugins/726590.lua"
+  },
+  {
+    "name": "The Witness",
+    "app_id": 210970,
+    "lua": "plugins/210970.lua"
+  },
+  {
+    "name": "Table Manners",
+    "app_id": 1019450,
+    "lua": "plugins/1019450.lua"
+  },
+  {
+    "name": "Claire's Quest",
+    "app_id": 1418760,
+    "lua": "plugins/1418760.lua"
+  },
+  {
+    "name": "The Precinct",
+    "app_id": 490110,
+    "lua": "plugins/490110.lua"
+  },
+  {
+    "name": "Internet Cafe Simulator",
+    "app_id": 1136160,
+    "lua": "plugins/1136160.lua"
+  },
+  {
+    "name": "Geo-Political Simulator 5",
+    "app_id": 3107770,
+    "lua": "plugins/3107770.lua"
+  },
+  {
+    "name": "Contraband Police",
+    "app_id": 756800,
+    "lua": "plugins/756800.lua"
+  },
+  {
+    "name": "Call of Duty: Advanced Warfare",
+    "app_id": 209650,
+    "lua": "plugins/209650.lua"
+  },
+  {
+    "name": "Clair Obscur: Expedition 33",
+    "app_id": 1903340,
+    "lua": "plugins/1903340.lua"
+  },
+  {
+    "name": "Dishonored®: Death of the Outsider™",
+    "app_id": 614570,
+    "lua": "plugins/614570.lua"
+  },
+  {
+    "name": "MiSide",
+    "app_id": 2527500,
+    "lua": "plugins/2527500.lua"
+  },
+  {
+    "name": "Marvel's Spider-Man 2",
+    "app_id": 2651280,
+    "lua": "plugins/2651280.lua"
+  },
+  {
+    "name": "Motorcycle Mechanic Simulator 2021",
+    "app_id": 1078760,
+    "lua": "plugins/1078760.lua"
+  },
+  {
+    "name": "Two Point Hospital",
+    "app_id": 535930,
+    "lua": "plugins/535930.lua"
+  },
+  {
+    "name": "SubwaySim Hamburg",
+    "app_id": 1925090,
+    "lua": "plugins/1925090.lua"
+  },
+  {
+    "name": "Call of Duty: World at War",
+    "app_id": 10090,
+    "lua": "plugins/10090.lua"
+  },
+  {
+    "name": "Wreckfest",
+    "app_id": 228380,
+    "lua": "plugins/228380.lua"
+  },
+  {
+    "name": "Homefront: The Revolution",
+    "app_id": 223100,
+    "lua": "plugins/223100.lua"
+  },
+  {
+    "name": "Cash Cleaner Simulator",
+    "app_id": 2488370,
+    "lua": "plugins/2488370.lua"
+  },
+  {
+    "name": "My Summer Car",
+    "app_id": 516750,
+    "lua": "plugins/516750.lua"
+  },
+  {
+    "name": "Beyond Good and Evil - 20th Anniversary Edition",
+    "app_id": 2556990,
+    "lua": "plugins/2556990.lua"
+  },
+  {
+    "name": "MotoGP™25",
+    "app_id": 3077390,
+    "lua": "plugins/3077390.lua"
+  },
+  {
+    "name": "World of Fate",
+    "app_id": 2241860,
+    "lua": "plugins/2241860.lua"
+  },
+  {
+    "name": "FOUNDRY",
+    "app_id": 983870,
+    "lua": "plugins/983870.lua"
+  },
+  {
+    "name": "Session: Skate Sim",
+    "app_id": 861650,
+    "lua": "plugins/861650.lua"
+  },
+  {
+    "name": "Space Simulation Toolkit",
+    "app_id": 1196080,
+    "lua": "plugins/1196080.lua"
+  },
+  {
+    "name": "Nuclear Option",
+    "app_id": 2168680,
+    "lua": "plugins/2168680.lua"
+  },
+  {
+    "name": "Factorio",
+    "app_id": 427520,
+    "lua": "plugins/427520.lua"
+  },
+  {
+    "name": "Twin Mirror",
+    "app_id": 1552810,
+    "lua": "plugins/1552810.lua"
+  },
+  {
+    "name": "The Coffin of Andy and Leyley",
+    "app_id": 2378900,
+    "lua": "plugins/2378900.lua"
+  },
+  {
+    "name": "Yakuza Kiwami 2",
+    "app_id": 927380,
+    "lua": "plugins/927380.lua"
+  },
+  {
+    "name": "Yakuza Kiwami",
+    "app_id": 834530,
+    "lua": "plugins/834530.lua"
+  },
+  {
+    "name": "Immortals of Aveum™",
+    "app_id": 2009100,
+    "lua": "plugins/2009100.lua"
+  },
+  {
+    "name": "Ultimate Epic Battle Simulator 2",
+    "app_id": 1468720,
+    "lua": "plugins/1468720.lua"
+  },
+  {
+    "name": "Bartender VR Simulator",
+    "app_id": 704300,
+    "lua": "plugins/704300.lua"
+  },
+  {
+    "name": "CrossCode",
+    "app_id": 368340,
+    "lua": "plugins/368340.lua"
+  },
+  {
+    "name": "Call of Duty®: Modern Warfare® 3 (2011)",
+    "app_id": 115300,
+    "lua": "plugins/115300.lua"
+  },
+  {
+    "name": "Road Maintenance Simulator 2 + Winter Services",
+    "app_id": 2865610,
+    "lua": "plugins/2865610.lua"
+  },
+  {
+    "name": "Heavy Cargo - The Truck Simulator",
+    "app_id": 1474930,
+    "lua": "plugins/1474930.lua"
+  },
+  {
+    "name": "Stacklands",
+    "app_id": 1948280,
+    "lua": "plugins/1948280.lua"
+  },
+  {
+    "name": "Truck and Logistics Simulator",
+    "app_id": 873840,
+    "lua": "plugins/873840.lua"
   }
 ]
