@@ -1123,5 +1123,260 @@
     "name": "Reverse Problem",
     "app_id": 3355020,
     "lua": "plugins/3355020.lua"
+  },
+  {
+    "name": "GOD EATER 3",
+    "app_id": 899440,
+    "lua": "plugins/899440.lua"
+  },
+  {
+    "name": "9 Kings",
+    "app_id": 2784470,
+    "lua": "plugins/2784470.lua"
+  },
+  {
+    "name": "Keep Driving",
+    "app_id": 2756920,
+    "lua": "plugins/2756920.lua"
+  },
+  {
+    "name": "Bus Simulator 18",
+    "app_id": 515180,
+    "lua": "plugins/515180.lua"
+  },
+  {
+    "name": "Ultimate Racing 2D 2",
+    "app_id": 1285230,
+    "lua": "plugins/1285230.lua"
+  },
+  {
+    "name": "Supercar Collection Simulator",
+    "app_id": 3453600,
+    "lua": "plugins/3453600.lua"
+  },
+  {
+    "name": "DELTARUNE",
+    "app_id": 1671210,
+    "lua": "plugins/1671210.lua"
+  },
+  {
+    "name": "PC Building Simulator",
+    "app_id": 621060,
+    "lua": "plugins/621060.lua"
+  },
+  {
+    "name": "Hatred",
+    "app_id": 341940,
+    "lua": "plugins/341940.lua"
+  },
+  {
+    "name": "Horizon Forbidden West™ Complete Edition",
+    "app_id": 2420110,
+    "lua": "plugins/2420110.lua"
+  },
+  {
+    "name": "Brick Rigs",
+    "app_id": 552100,
+    "lua": "plugins/552100.lua"
+  },
+  {
+    "name": "Skul: The Hero Slayer",
+    "app_id": 1147560,
+    "lua": "plugins/1147560.lua"
+  },
+  {
+    "name": "DOOM Eternal",
+    "app_id": 782330,
+    "lua": "plugins/782330.lua"
+  },
+  {
+    "name": "Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition",
+    "app_id": 1922560,
+    "lua": "plugins/1922560.lua"
+  },
+  {
+    "name": "Dead Signal",
+    "app_id": 2599300,
+    "lua": "plugins/2599300.lua"
+  },
+  {
+    "name": "They Are Billions",
+    "app_id": 644930,
+    "lua": "plugins/644930.lua"
+  },
+  {
+    "name": "Total War: WARHAMMER",
+    "app_id": 364360,
+    "lua": "plugins/364360.lua"
+  },
+  {
+    "name": "Waltz of the Wizard",
+    "app_id": 1094390,
+    "lua": "plugins/1094390.lua"
+  },
+  {
+    "name": "Darkest Dungeon® II",
+    "app_id": 1940340,
+    "lua": "plugins/1940340.lua"
+  },
+  {
+    "name": "Darkest Dungeon®",
+    "app_id": 262060,
+    "lua": "plugins/262060.lua"
+  },
+  {
+    "name": "Planet Coaster 2",
+    "app_id": 2688950,
+    "lua": "plugins/2688950.lua"
+  },
+  {
+    "name": "Freedom Planet 2",
+    "app_id": 595500,
+    "lua": "plugins/595500.lua"
+  },
+  {
+    "name": "art of rally",
+    "app_id": 550320,
+    "lua": "plugins/550320.lua"
+  },
+  {
+    "name": "House of Legacy",
+    "app_id": 2503770,
+    "lua": "plugins/2503770.lua"
+  },
+  {
+    "name": "Anno 1800",
+    "app_id": 916440,
+    "lua": "plugins/916440.lua"
+  },
+  {
+    "name": "Blacksmith Master",
+    "app_id": 2292800,
+    "lua": "plugins/2292800.lua"
+  },
+  {
+    "name": "First Date : Late To Date",
+    "app_id": 2080640,
+    "lua": "plugins/2080640.lua"
+  },
+  {
+    "name": "Real Boxing™",
+    "app_id": 296770,
+    "lua": "plugins/296770.lua"
+  },
+  {
+    "name": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
+    "app_id": 969990,
+    "lua": "plugins/969990.lua"
+  },
+  {
+    "name": "STANDBOX",
+    "app_id": 2246880,
+    "lua": "plugins/2246880.lua"
+  },
+  {
+    "name": "Farm Together 2",
+    "app_id": 2418520,
+    "lua": "plugins/2418520.lua"
+  },
+  {
+    "name": "Summer Memories",
+    "app_id": 1227890,
+    "lua": "plugins/1227890.lua"
+  },
+  {
+    "name": "Forts",
+    "app_id": 410900,
+    "lua": "plugins/410900.lua"
+  },
+  {
+    "name": "BLEACH Rebirth of Souls",
+    "app_id": 1689620,
+    "lua": "plugins/1689620.lua"
+  },
+  {
+    "name": "Microcivilization",
+    "app_id": 1822550,
+    "lua": "plugins/1822550.lua"
+  },
+  {
+    "name": "Blood Trail",
+    "app_id": 1032430,
+    "lua": "plugins/1032430.lua"
+  },
+  {
+    "name": "Sekiro™: Shadows Die Twice",
+    "app_id": 814380,
+    "lua": "plugins/814380.lua"
+  },
+  {
+    "name": "Among Us",
+    "app_id": 945360,
+    "lua": "plugins/945360.lua"
+  },
+  {
+    "name": "Notruf 112 - Die Feuerwehr Simulation 2",
+    "app_id": 785770,
+    "lua": "plugins/785770.lua"
+  },
+  {
+    "name": "Car Dealer Simulator",
+    "app_id": 2404880,
+    "lua": "plugins/2404880.lua"
+  },
+  {
+    "name": "Granny",
+    "app_id": 962400,
+    "lua": "plugins/962400.lua"
+  },
+  {
+    "name": "Drive Beyond Horizons",
+    "app_id": 2625420,
+    "lua": "plugins/2625420.lua"
+  },
+  {
+    "name": "Dummynation",
+    "app_id": 1892030,
+    "lua": "plugins/1892030.lua"
+  },
+  {
+    "name": "At Tony's",
+    "app_id": 2741490,
+    "lua": "plugins/2741490.lua"
+  },
+  {
+    "name": "INSIDE",
+    "app_id": 304430,
+    "lua": "plugins/304430.lua"
+  },
+  {
+    "name": "Little Nightmares II",
+    "app_id": 860510,
+    "lua": "plugins/860510.lua"
+  },
+  {
+    "name": "MouseCraft",
+    "app_id": 252750,
+    "lua": "plugins/252750.lua"
+  },
+  {
+    "name": "NBA 2K16",
+    "app_id": 370240,
+    "lua": "plugins/370240.lua"
+  },
+  {
+    "name": "Bodycam",
+    "app_id": 2406770,
+    "lua": "plugins/2406770.lua"
+  },
+  {
+    "name": "Plague Inc: Evolved",
+    "app_id": 246620,
+    "lua": "plugins/246620.lua"
+  },
+  {
+    "name": "EA SPORTS FC 25",
+    "app_id": 2669320,
+    "lua": "plugins/2669320.lua"
   }
 ]
