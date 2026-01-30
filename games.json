@@ -2463,5 +2463,10 @@
     "name": "Underground Garage",
     "app_id": 1452250,
     "lua": "plugins/1452250.lua"
+  },
+  {
+    "name": "Bully: Scholarship Edition",
+    "app_id": 12200,
+    "lua": "plugins/12200.lua"
   }
 ]
