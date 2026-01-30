@@ -2438,5 +2438,10 @@
     "name": "Twelve Minutes",
     "app_id": 1097200,
     "lua": "plugins/1097200.lua"
+  },
+  {
+    "name": "Quarantine Zone: The Last Check",
+    "app_id": 3419520,
+    "lua": "plugins/3419520.lua"
   }
 ]
