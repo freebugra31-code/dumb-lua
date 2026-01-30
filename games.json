@@ -2448,5 +2448,10 @@
     "name": "CODE VEIN II",
     "app_id": 2362060,
     "lua": "plugins/2362060.lua"
+  },
+  {
+    "name": "The Midnight Walkers",
+    "app_id": 2795540,
+    "lua": "plugins/2795540.lua"
   }
 ]
