@@ -2443,5 +2443,10 @@
     "name": "Quarantine Zone: The Last Check",
     "app_id": 3419520,
     "lua": "plugins/3419520.lua"
+  },
+  {
+    "name": "CODE VEIN II",
+    "app_id": 2362060,
+    "lua": "plugins/2362060.lua"
   }
 ]
