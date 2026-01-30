@@ -2453,5 +2453,10 @@
     "name": "The Midnight Walkers",
     "app_id": 2795540,
     "lua": "plugins/2795540.lua"
+  },
+  {
+    "name": "Echoes of Elysium",
+    "app_id": 2644050,
+    "lua": "plugins/2644050.lua"
   }
 ]
