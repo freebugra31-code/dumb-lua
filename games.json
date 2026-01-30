@@ -2458,5 +2458,10 @@
     "name": "Echoes of Elysium",
     "app_id": 2644050,
     "lua": "plugins/2644050.lua"
+  },
+  {
+    "name": "Underground Garage",
+    "app_id": 1452250,
+    "lua": "plugins/1452250.lua"
   }
 ]
