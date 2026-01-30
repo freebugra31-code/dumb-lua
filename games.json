@@ -2060,7 +2060,7 @@
     "lua": "plugins/1643320.lua"
   },
   {
-    "name": "repo",
+    "name": "Repo",
     "app_id": 3241660,
     "lua": "plugins/3241660.lua"
   },
@@ -2070,7 +2070,7 @@
     "lua": "plugins/3098070.lua"
   },
   {
-    "name": "stalker 2 Heart of Chornobyl",
+    "name": "Stalker 2 Heart of Chornobyl",
     "app_id": 1643320,
     "lua": "plugins/1643320.lua"
   },
@@ -2083,5 +2083,360 @@
     "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles",
     "app_id": 1490890,
     "lua": "plugins/1490890.lua"
+  },
+  {
+    "name": "Shawarma Legend",
+    "app_id": 3036080,
+    "lua": "plugins/3036080.lua"
+  },
+  {
+    "name": "Rise of the Tomb Raider",
+    "app_id": 391220,
+    "lua": "plugins/391220.lua"
+  },
+  {
+    "name": "Assassin's Creed Valhalla",
+    "app_id": 2208920,
+    "lua": "plugins/2208920.lua"
+  },
+  {
+    "name": "Fruitbus",
+    "app_id": 2484130,
+    "lua": "plugins/2484130.lua"
+  },
+  {
+    "name": "The Godfather",
+    "app_id": 24820,
+    "lua": "plugins/24820.lua"
+  },
+  {
+    "name": "inZOI",
+    "app_id": 2456740,
+    "lua": "plugins/2456740.lua"
+  },
+  {
+    "name": "MXGP 2019 - The Official Motocross Videogame",
+    "app_id": 1018160,
+    "lua": "plugins/1018160.lua"
+  },
+  {
+    "name": "FINAL FANTASY XV WINDOWS EDITION",
+    "app_id": 637650,
+    "lua": "plugins/637650.lua"
+  },
+  {
+    "name": "The Last of Us™ Part II Remastered",
+    "app_id": 2531310,
+    "lua": "plugins/2531310.lua"
+  },
+  {
+    "name": "Surgeon Simulator 2",
+    "app_id": 774791,
+    "lua": "plugins/774791.lua"
+  },
+  {
+    "name": "SWORD ART ONLINE Fractured Daydream",
+    "app_id": 1858630,
+    "lua": "plugins/1858630.lua"
+  },
+  {
+    "name": "Call of Duty®: Vanguard",
+    "app_id": 1985820,
+    "lua": "plugins/1985820.lua"
+  },
+  {
+    "name": "Ben 10: Power Trip",
+    "app_id": 1063040,
+    "lua": "plugins/1063040.lua"
+  },
+  {
+    "name": "Ben 10",
+    "app_id": 703180,
+    "lua": "plugins/703180.lua"
+  },
+  {
+    "name": "Life is Strange Remastered",
+    "app_id": 1265920,
+    "lua": "plugins/1265920.lua"
+  },
+  {
+    "name": "Cafemart Simulator",
+    "app_id": 3408110,
+    "lua": "plugins/3408110.lua"
+  },
+  {
+    "name": "LOCKDOWN Protocol",
+    "app_id": 2780980,
+    "lua": "plugins/2780980.lua"
+  },
+  {
+    "name": "Dinkum",
+    "app_id": 1062520,
+    "lua": "plugins/1062520.lua"
+  },
+  {
+    "name": "Teenage Mutant Ninja Turtles: Out of the Shadows",
+    "app_id": 228560,
+    "lua": "plugins/228560.lua"
+  },
+  {
+    "name": "Call of Duty®: Modern Warfare®",
+    "app_id": 2000950,
+    "lua": "plugins/2000950.lua"
+  },
+  {
+    "name": "Ori and the Blind Forest",
+    "app_id": 261570,
+    "lua": "plugins/261570.lua"
+  },
+  {
+    "name": "Superliminal",
+    "app_id": 1049410,
+    "lua": "plugins/1049410.lua"
+  },
+  {
+    "name": "STAR WARS Jedi: Fallen Order™",
+    "app_id": 1172380,
+    "lua": "plugins/1172380.lua"
+  },
+  {
+    "name": "SUPERHOT VR",
+    "app_id": 617830,
+    "lua": "plugins/617830.lua"
+  },
+  {
+    "name": "Assassin's Creed® III",
+    "app_id": 208480,
+    "lua": "plugins/208480.lua"
+  },
+  {
+    "name": "Nickelodeon All-Star Brawl",
+    "app_id": 1414850,
+    "lua": "plugins/1414850.lua"
+  },
+  {
+    "name": "Good Pizza, Great Pizza",
+    "app_id": 770810,
+    "lua": "plugins/770810.lua"
+  },
+  {
+    "name": "Rain World",
+    "app_id": 312520,
+    "lua": "plugins/312520.lua"
+  },
+  {
+    "name": "Postal 3",
+    "app_id": 10220,
+    "lua": "plugins/10220.lua"
+  },
+  {
+    "name": "Martha Is Dead",
+    "app_id": 515960,
+    "lua": "plugins/515960.lua"
+  },
+  {
+    "name": "TEKKEN 8",
+    "app_id": 1778820,
+    "lua": "plugins/1778820.lua"
+  },
+  {
+    "name": "Black Myth: Wukong",
+    "app_id": 2358720,
+    "lua": "plugins/2358720.lua"
+  },
+  {
+    "name": "Detroit: Become Human",
+    "app_id": 1222140,
+    "lua": "plugins/1222140.lua"
+  },
+  {
+    "name": "Hollow Knight",
+    "app_id": 367520,
+    "lua": "plugins/367520.lua"
+  },
+  {
+    "name": "PAYDAY 3",
+    "app_id": 1272080,
+    "lua": "plugins/1272080.lua"
+  },
+  {
+    "name": "Max Payne 3",
+    "app_id": 204100,
+    "lua": "plugins/204100.lua"
+  },
+  {
+    "name": "Max Payne 2: The Fall of Max Payne",
+    "app_id": 12150,
+    "lua": "plugins/12150.lua"
+  },
+  {
+    "name": "Resident Evil 4",
+    "app_id": 2050650,
+    "lua": "plugins/2050650.lua"
+  },
+  {
+    "name": "God of War Ragnarök",
+    "app_id": 2322010,
+    "lua": "plugins/2322010.lua"
+  },
+  {
+    "name": "Farming Simulator 25",
+    "app_id": 2300320,
+    "lua": "plugins/2300320.lua"
+  },
+  {
+    "name": "Hello Kitty Island Adventure",
+    "app_id": 2495100,
+    "lua": "plugins/2495100.lua"
+  },
+  {
+    "name": "Two Point Museum",
+    "app_id": 2185060,
+    "lua": "plugins/2185060.lua"
+  },
+  {
+    "name": "Split Fiction",
+    "app_id": 2001120,
+    "lua": "plugins/2001120.lua"
+  },
+  {
+    "name": "WWE 2K25",
+    "app_id": 2878960,
+    "lua": "plugins/2878960.lua"
+  },
+  {
+    "name": "Super Bunny Man",
+    "app_id": 673750,
+    "lua": "plugins/673750.lua"
+  },
+  {
+    "name": "Hogwarts Legacy",
+    "app_id": 990080,
+    "lua": "plugins/990080.lua"
+  },
+  {
+    "name": "Cities: Skylines II",
+    "app_id": 949230,
+    "lua": "plugins/949230.lua"
+  },
+  {
+    "name": "The Bus",
+    "app_id": 491540,
+    "lua": "plugins/491540.lua"
+  },
+  {
+    "name": "Call of Duty 2",
+    "app_id": 2630,
+    "lua": "plugins/2630.lua"
+  },
+  {
+    "name": "Prince of Persia: The Sands of Time",
+    "app_id": 13600,
+    "lua": "plugins/13600.lua"
+  },
+  {
+    "name": "Kebab Chefs! - Restaurant Simulator",
+    "app_id": 1001270,
+    "lua": "plugins/1001270.lua"
+  },
+  {
+    "name": "Crime Scene Cleaner",
+    "app_id": 1040200,
+    "lua": "plugins/1040200.lua"
+  },
+  {
+    "name": "Age of History 3",
+    "app_id": 2772750,
+    "lua": "plugins/2772750.lua"
+  },
+  {
+    "name": "JudgeSim",
+    "app_id": 2919660,
+    "lua": "plugins/2919660.lua"
+  },
+  {
+    "name": "PAYDAY 2",
+    "app_id": 218620,
+    "lua": "plugins/218620.lua"
+  },
+  {
+    "name": "Far Cry 6",
+    "app_id": 2369390,
+    "lua": "plugins/2369390.lua"
+  },
+  {
+    "name": "Far Cry New Dawn",
+    "app_id": 939960,
+    "lua": "plugins/939960.lua"
+  },
+  {
+    "name": "Far Cry 5",
+    "app_id": 552520,
+    "lua": "plugins/552520.lua"
+  },
+  {
+    "name": "Far Cry Primal",
+    "app_id": 371660,
+    "lua": "plugins/371660.lua"
+  },
+  {
+    "name": "Far Cry 4",
+    "app_id": 298110,
+    "lua": "plugins/298110.lua"
+  },
+  {
+    "name": "Far Cry® 3 Blood Dragon",
+    "app_id": 233270,
+    "lua": "plugins/233270.lua"
+  },
+  {
+    "name": "Far Cry® 3",
+    "app_id": 220240,
+    "lua": "plugins/220240.lua"
+  },
+  {
+    "name": "Far Cry 2",
+    "app_id": 19900,
+    "lua": "plugins/19900.lua"
+  },
+  {
+    "name": "Far Cry",
+    "app_id": 13520,
+    "lua": "plugins/13520.lua"
+  },
+  {
+    "name": "Ghost of Tsushima DIRECTOR'S CUT",
+    "app_id": 2215430,
+    "lua": "plugins/2215430.lua"
+  },
+  {
+    "name": "Until Dawn™",
+    "app_id": 2172010,
+    "lua": "plugins/2172010.lua"
+  },
+  {
+    "name": "Mortal Kombat 1",
+    "app_id": 1971870,
+    "lua": "plugins/1971870.lua"
+  },
+  {
+    "name": "Hairdresser Simulator",
+    "app_id": 1330560,
+    "lua": "plugins/1330560.lua"
+  },
+  {
+    "name": "My dream setup",
+    "app_id": 2200780,
+    "lua": "plugins/2200780.lua"
+  },
+  {
+    "name": "Cat Cafe Manager",
+    "app_id": 1354830,
+    "lua": "plugins/1354830.lua"
+  },
+  {
+    "name": "Twelve Minutes",
+    "app_id": 1097200,
+    "lua": "plugins/1097200.lua"
   }
 ]

@@ -1,0 +1,5 @@
+-- Downloaded using DepotBox - https://depotbox.org/
+-- Original file: 1001270.lua
+addappid(1001270)
+addappid(1001271,0,"840a384558d951071f078063810429d5c2943f4389e02a2b992ad4e6cb001088")
+setManifestid(1001271,"3100106547137649291")
