@@ -1988,5 +1988,100 @@
     "name": "Max Payne",
     "app_id": 12140,
     "lua": "plugins/12140.lua"
+  },
+  {
+    "name": "White Knuckle",
+    "app_id": 3195790,
+    "lua": "plugins/3195790.lua"
+  },
+  {
+    "name": "Subnautica: Below Zero",
+    "app_id": 848450,
+    "lua": "plugins/848450.lua"
+  },
+  {
+    "name": "Football Life Simulator",
+    "app_id": 3158270,
+    "lua": "plugins/3158270.lua"
+  },
+  {
+    "name": "Bullet Roulette VR",
+    "app_id": 1103880,
+    "lua": "plugins/1103880.lua"
+  },
+  {
+    "name": "Digimon Survive",
+    "app_id": 871980,
+    "lua": "plugins/871980.lua"
+  },
+  {
+    "name": "The Elder Scrolls IV: Oblivion Remastered",
+    "app_id": 2623190,
+    "lua": "plugins/2623190.lua"
+  },
+  {
+    "name": "Digimon Story Cyber Sleuth: Complete Edition",
+    "app_id": 1042550,
+    "lua": "plugins/1042550.lua"
+  },
+  {
+    "name": "Clickteam Fusion 2.5",
+    "app_id": 248170,
+    "lua": "plugins/248170.lua"
+  },
+  {
+    "name": "DOOM: The Dark Ages",
+    "app_id": 3017860,
+    "lua": "plugins/3017860.lua"
+  },
+  {
+    "name": "PICO PARK 2",
+    "app_id": 2644470,
+    "lua": "plugins/2644470.lua"
+  },
+  {
+    "name": "PICO PARK",
+    "app_id": 1509960,
+    "lua": "plugins/1509960.lua"
+  },
+  {
+    "name": "It Takes Two",
+    "app_id": 1426210,
+    "lua": "plugins/1426210.lua"
+  },
+  {
+    "name": "Assassin's Creed Shadows",
+    "app_id": 3159330,
+    "lua": "plugins/3159330.lua"
+  },
+  {
+    "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+    "app_id": 1643320,
+    "lua": "plugins/1643320.lua"
+  },
+  {
+    "name": "repo",
+    "app_id": 3241660,
+    "lua": "plugins/3241660.lua"
+  },
+  {
+    "name": "Cinema Simulator 2025",
+    "app_id": 3098070,
+    "lua": "plugins/3098070.lua"
+  },
+  {
+    "name": "stalker 2 Heart of Chornobyl",
+    "app_id": 1643320,
+    "lua": "plugins/1643320.lua"
+  },
+  {
+    "name": "Tobacco Shop Simulator",
+    "app_id": 3211680,
+    "lua": "plugins/3211680.lua"
+  },
+  {
+    "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles",
+    "app_id": 1490890,
+    "lua": "plugins/1490890.lua"
   }
 ]
