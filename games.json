@@ -2488,5 +2488,10 @@
     "name": "Sonic Frontiers",
     "app_id": 1237320,
     "lua": "plugins/1237320.lua"
+  },
+  {
+    "name": "Dead Space ",
+    "app_id": 1693980,
+    "lua": "plugins/1693980.lua"
   }
 ]
