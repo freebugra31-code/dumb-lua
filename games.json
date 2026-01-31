@@ -2503,5 +2503,10 @@
     "name": "L.A. Noire",
     "app_id": 110800,
     "lua": "plugins/110800.lua"
+  },
+  {
+    "name": "PROTOTYPE 2",
+    "app_id": 115320,
+    "lua": "plugins/115320.lua"
   }
 ]
