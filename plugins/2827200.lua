@@ -1,11 +1,3 @@
--- 2827200's Lua and Manifest Created by Morrenus
--- MIMESIS
--- Created: December 11, 2025 at 20:49:53 EST
--- Website: https://manifest.morrenus.xyz/
--- Total Depots: 3
--- Total DLCs: 0
--- Shared Depots: 2
-
 -- MAIN APPLICATION
 addappid(2827200) -- MIMESIS
 -- MAIN APP DEPOTS
