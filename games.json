@@ -2478,5 +2478,10 @@
     "name": "Half Sword",
     "app_id": 2397300,
     "lua": "plugins/2397300.lua"
+  },
+  {
+    "name": "Scam Line",
+    "app_id": 2794590,
+    "lua": "plugins/2794590.lua"
   }
 ]
