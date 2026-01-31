@@ -2513,5 +2513,10 @@
     "name": "Just Cause 2",
     "app_id": 8190,
     "lua": "plugins/8190.lua"
+  },
+  {
+    "name": "Mad Max",
+    "app_id": 234140,
+    "lua": "plugins/234140.lua"
   }
 ]
