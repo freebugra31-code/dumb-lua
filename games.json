@@ -2518,5 +2518,10 @@
     "name": "Mad Max",
     "app_id": 234140,
     "lua": "plugins/234140.lua"
+  },
+  {
+    "name": "Cairn",
+    "app_id": 1588550,
+    "lua": "plugins/1588550.lua"
   }
 ]
