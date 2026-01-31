@@ -1,11 +1,3 @@
--- 2878980's Lua and Manifest Created by Morrenus
--- NBA 2K25
--- Created: September 30, 2025 at 03:00:56 EDT
--- Website: https://manifest.morrenus.xyz/
--- Total Depots: 4
--- Total DLCs: 41
--- Shared Depots: 2
-
 -- MAIN APPLICATION
 addappid(2878980) -- NBA 2K25
 -- MAIN APP DEPOTS

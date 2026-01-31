@@ -1,10 +1,3 @@
--- 744190's Lua and Manifest Created by Morrenus
--- Rusty Lake Paradise
--- Created: September 30, 2025 at 11:50:42 EDT
--- Website: https://manifest.morrenus.xyz/
--- Total Depots: 2
--- Total DLCs: 0
-
 -- MAIN APPLICATION
 addappid(744190) -- Rusty Lake Paradise
 -- MAIN APP DEPOTS

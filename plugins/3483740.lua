@@ -1,10 +1,3 @@
--- 3483740's Lua and Manifest Created by Morrenus
--- Cast n Chill
--- Created: December 01, 2025 at 14:43:12 EST
--- Website: https://manifest.morrenus.xyz/
--- Total Depots: 2
--- Total DLCs: 1 (1 excluded)
-
 -- MAIN APPLICATION
 addappid(3483740) -- Cast n Chill
 -- MAIN APP DEPOTS

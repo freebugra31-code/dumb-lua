@@ -1,10 +1,3 @@
--- 2879840's Lua and Manifest Created by Morrenus
--- Escape Simulator 2
--- Created: October 27, 2025 at 17:47:45 EDT
--- Website: https://manifest.morrenus.xyz/
--- Total Depots: 30
--- Total DLCs: 0
-
 -- MAIN APPLICATION
 addappid(2879840) -- Escape Simulator 2
 -- MAIN APP DEPOTS

@@ -1,11 +1,3 @@
--- 646910's Lua and Manifest Created by Morrenus
--- The Crew 2
--- Created: October 17, 2025 at 06:03:42 EDT
--- Website: https://manifest.morrenus.xyz/
--- Total Depots: 2
--- Total DLCs: 16
--- Shared Depots: 1
-
 -- MAIN APPLICATION
 addappid(646910) -- The Crew 2
 -- MAIN APP DEPOTS

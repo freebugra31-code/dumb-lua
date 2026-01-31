@@ -1,10 +1,3 @@
--- 1371720's Lua and Manifest Created by Morrenus
--- Card Shark
--- Created: September 29, 2025 at 03:19:54 EDT
--- Website: https://manifest.morrenus.xyz/
--- Total Depots: 3
--- Total DLCs: 1
-
 -- MAIN APPLICATION
 addappid(1371720) -- Card Shark
 -- MAIN APP DEPOTS

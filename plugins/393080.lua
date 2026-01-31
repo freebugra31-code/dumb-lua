@@ -20,7 +20,3 @@ setManifestid(393114,"4538521803897168337")
 setManifestid(393115,"7611916803754667047")
 setManifestid(393116,"6984835660407597078")
 setManifestid(393117,"1793383041649694918")
---[[
-This file Generated using fares.top Website 
------> join discord Server : https://discord.gg/steamgames 
-]]

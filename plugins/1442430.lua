@@ -1,11 +1,3 @@
--- 1442430's Lua and Manifest Created by Morrenus
--- Storage Hunter
--- Created: November 29, 2025 at 13:51:01 EST
--- Website: https://manifest.morrenus.xyz/
--- Total Depots: 6
--- Total DLCs: 0
--- Shared Depots: 5
-
 -- MAIN APPLICATION
 addappid(1442430, 1, "097d21ca4f6944a8a618d03762988833616f06fee274d2f55c96170f74973dd2") -- Storage Hunter
 -- MAIN APP DEPOTS

@@ -1,11 +1,3 @@
--- 2290180's Lua and Manifest Created by Morrenus
--- Riders Republic
--- Created: November 26, 2025 at 03:41:15 EST
--- Website: https://manifest.morrenus.xyz/
--- Total Depots: 4
--- Total DLCs: 19
--- Shared Depots: 3
-
 -- MAIN APPLICATION
 addappid(2290180, 1, "f4dc4dfa72e4a27abc58f753127c9574426a2ea4c2daeede7a14338535f6df5d") -- Riders Republic
 -- MAIN APP DEPOTS

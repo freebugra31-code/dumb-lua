@@ -1,11 +1,3 @@
--- 1771300's Lua and Manifest Created by Morrenus
--- Kingdom Come: Deliverance II
--- Created: November 14, 2025 at 17:54:26 EST
--- Website: https://manifest.morrenus.xyz/
--- Total Depots: 9
--- Total DLCs: 7
--- Shared Depots: 1
-
 -- MAIN APPLICATION
 addappid(1771300, 1, "3caed047b77bd7be8e68f818a3a6729b75371e0f67c871728c7a19de18aa6f53") -- Kingdom Come: Deliverance II
 -- MAIN APP DEPOTS

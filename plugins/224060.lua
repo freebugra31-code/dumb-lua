@@ -7,8 +7,3 @@ addappid(224065, 1, "0dfecfe02c8e2e523d2ed028b56eea20b65310d104a0f4065cb21f7ebf4
 addappid(224066, 1, "10f70d5182a1e769914588edfe5efed38b18f6d6fb0594757db61d5212b695bb")
 addappid(224067, 1, "d367fc2230da5fa8fb9a73d884537089bbf9202d48379488999b0f9909b04055")
 addappid(224068, 1, "4ad7e48bc90a77adba68585a791b30f1009235deefd725dea7e597e599e6ae34")
--- Welcome To XWORLD
--- Website Link: https://bandoofficial.xyz/xworld
--- Discord Link: https://discord.gg/KSE2fNcXHq
--- Enjoy
--- @Saito.Kurosaki

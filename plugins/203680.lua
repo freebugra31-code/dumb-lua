@@ -1,10 +1,3 @@
--- 203680's Lua and Manifest Created by Morrenus
--- F1 Race Stars
--- Created: September 29, 2025 at 11:16:02 EDT
--- Website: https://manifest.morrenus.xyz/
--- Total Depots: 10
--- Total DLCs: 17
-
 -- MAIN APPLICATION
 addappid(203680) -- F1 Race Stars
 -- MAIN APP DEPOTS
@@ -28,7 +21,7 @@ addappid(203682, 1, "6a97bf549e5193c01c63dbdd1e8abf36055134081c5e8f42f91adf32add
 setManifestid(203682, "4129044442037359392")
 addappid(203681, 1, "821f6e044d69bca1db7ecbc8fd73ea0bad0671a5a2a9ee81cc25a4c7fd514eff") -- f1_race_stars_data
 setManifestid(203681, "8892829592743331452")
--- DLCS WITHOUT DEDICATED DEPOTS
+-- DLCS
 addappid(211320) -- BP3 DLC Range
 addappid(211321) -- DLC Pack 1
 addappid(211322) -- DLC Pack 3

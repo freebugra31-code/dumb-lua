@@ -1,11 +1,3 @@
--- 3110070's Lua and Manifest Created by Morrenus
--- Fever Meme
--- Created: October 13, 2025 at 11:00:47 EDT
--- Website: https://manifest.morrenus.xyz/
--- Total Depots: 3
--- Total DLCs: 0
--- Shared Depots: 2
-
 -- MAIN APPLICATION
 addappid(3110070) -- Fever Meme
 -- MAIN APP DEPOTS

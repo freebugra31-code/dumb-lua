@@ -1,11 +1,3 @@
--- 3949040's Lua and Manifest Created by Morrenus
--- RV There Yet?
--- Created: October 23, 2025 at 07:21:51 EDT
--- Website: https://manifest.morrenus.xyz/
--- Total Depots: 3
--- Total DLCs: 0
--- Shared Depots: 2
-
 -- MAIN APPLICATION
 addappid(3949040) -- RV There Yet?
 -- MAIN APP DEPOTS

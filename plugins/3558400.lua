@@ -1,11 +1,3 @@
--- 3558400's Lua and Manifest Created by Morrenus
--- Backseat Drivers
--- Created: October 16, 2025 at 15:31:28 EDT
--- Website: https://manifest.morrenus.xyz/
--- Total Depots: 3
--- Total DLCs: 0
--- Shared Depots: 2
-
 -- MAIN APPLICATION
 addappid(3558400) -- Backseat Drivers
 -- MAIN APP DEPOTS

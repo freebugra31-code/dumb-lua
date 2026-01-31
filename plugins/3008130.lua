@@ -11,9 +11,3 @@ setManifestid(3008134, "9179387896156765641")
 setManifestid(3008135, "3302140328572812531")
 setManifestid(3008139, "7816104546630776041")
 setManifestid(3592041, "8158869557748837661")
-
-
---[[
-This file belongs to Ahmeds Bot Discord Server
------> join discord Server : https://discord.gg/sv6EGxCRnC
-]]

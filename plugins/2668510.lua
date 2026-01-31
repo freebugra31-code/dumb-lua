@@ -1,11 +1,3 @@
--- 2668510's Lua and Manifest Created by Morrenus
--- Red Dead Redemption
--- Created: September 30, 2025 at 09:28:59 EDT
--- Website: https://manifest.morrenus.xyz/
--- Total Depots: 6
--- Total DLCs: 0
--- Shared Depots: 3
-
 -- MAIN APPLICATION
 addappid(2668510) -- Red Dead Redemption
 -- MAIN APP DEPOTS

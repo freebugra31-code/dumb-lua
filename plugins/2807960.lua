@@ -1,11 +1,3 @@
--- 2807960's Lua and Manifest Created by Morrenus
--- Battlefield™ 6
--- Created: November 18, 2025 at 09:58:33 EST
--- Website: https://manifest.morrenus.xyz/
--- Total Depots: 24
--- Total DLCs: 28
--- Shared Depots: 1
-
 -- MAIN APPLICATION
 addappid(2807960, 1, "4fa6611b3acbfcd70547be82c9b03e17e6c9d995ba169e993d3dc11dc386d72b") -- Battlefield™ 6
 -- MAIN APP DEPOTS

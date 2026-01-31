@@ -1,11 +1,3 @@
--- 3274580's Lua and Manifest Created by Morrenus
--- Anno 117: Pax Romana
--- Created: November 12, 2025 at 19:28:21 EST
--- Website: https://manifest.morrenus.xyz/
--- Total Depots: 2
--- Total DLCs: 7
--- Shared Depots: 1
-
 -- MAIN APPLICATION
 addappid(3274580) -- Anno 117: Pax Romana
 -- MAIN APP DEPOTS

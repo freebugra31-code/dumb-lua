@@ -1,11 +1,3 @@
--- 1546990's Lua and Manifest Created by Morrenus
--- Grand Theft Auto: Vice City - The Definitive Edition
--- Created: September 29, 2025 at 15:19:14 EDT
--- Website: https://manifest.morrenus.xyz/
--- Total Depots: 4
--- Total DLCs: 0
--- Shared Depots: 3
-
 -- MAIN APPLICATION
 addappid(1546990) -- Grand Theft Auto: Vice City - The Definitive Edition
 -- MAIN APP DEPOTS

@@ -1,11 +1,3 @@
--- 460920's Lua and Manifest Created by Morrenus
--- Steep
--- Created: September 30, 2025 at 20:01:58 EDT
--- Website: https://manifest.morrenus.xyz/
--- Total Depots: 3
--- Total DLCs: 31
--- Shared Depots: 2
-
 -- MAIN APPLICATION
 addappid(460920) -- Steep
 -- MAIN APP DEPOTS

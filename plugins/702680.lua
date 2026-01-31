@@ -1,10 +1,3 @@
--- 702680's Lua and Manifest Created by Morrenus
--- Wattam
--- Created: November 18, 2025 at 03:00:50 EST
--- Website: https://manifest.morrenus.xyz/
--- Total Depots: 1
--- Total DLCs: 0
-
 -- MAIN APPLICATION
 addappid(702680) -- Wattam
 -- MAIN APP DEPOTS

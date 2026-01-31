@@ -1,11 +1,3 @@
--- 255710's Lua and Manifest Created by Morrenus
--- Cities: Skylines
--- Created: September 29, 2025 at 04:16:35 EDT
--- Website: https://manifest.morrenus.xyz/
--- Total Depots: 91
--- Total DLCs: 72
--- Shared Depots: 2
-
 -- MAIN APPLICATION
 addappid(255710, 1, "624bcd6cc6783aaaf17722fb0bfb8a17b1d687e7b76c32b6f038307e1deab622") -- Cities: Skylines
 -- MAIN APP DEPOTS

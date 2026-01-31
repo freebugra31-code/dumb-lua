@@ -1,5 +1,3 @@
--- Downloaded using DepotBox - https://depotbox.org/
--- Original file: 1225570.lua
 addappid(1225570)
 setManifestid(228985,"3966345552745568756")
 setManifestid(228988,"6645201662696499616")

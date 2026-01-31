@@ -1,11 +1,3 @@
--- 2592160's Lua and Manifest Created by Morrenus
--- Dispatch
--- Created: November 19, 2025 at 15:17:47 EST
--- Website: https://manifest.morrenus.xyz/
--- Total Depots: 3
--- Total DLCs: 1
--- Shared Depots: 2
-
 -- MAIN APPLICATION
 addappid(2592160, 1, "94ae1de1f6d1f0fb70fe57e5fbcfd7761611372ed8325748dc0f011bcc3781f5") -- Dispatch
 -- MAIN APP DEPOTS

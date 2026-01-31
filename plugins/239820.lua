@@ -1,10 +1,3 @@
--- 239820's Lua and Manifest Created by Morrenus
--- Game Dev Tycoon
--- Created: September 29, 2025 at 14:03:18 EDT
--- Website: https://manifest.morrenus.xyz/
--- Total Depots: 4
--- Total DLCs: 0
-
 -- MAIN APPLICATION
 addappid(239820) -- Game Dev Tycoon
 -- MAIN APP DEPOTS

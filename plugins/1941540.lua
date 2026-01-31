@@ -1,11 +1,3 @@
--- 1941540's Lua and Manifest Created by Morrenus
--- Mafia: The Old Country
--- Created: November 22, 2025 at 16:49:13 EST
--- Website: https://manifest.morrenus.xyz/
--- Total Depots: 4
--- Total DLCs: 4
--- Shared Depots: 3
-
 -- MAIN APPLICATION
 addappid(1941540) -- Mafia: The Old Country
 -- MAIN APP DEPOTS

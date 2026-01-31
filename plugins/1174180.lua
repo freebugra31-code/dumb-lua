@@ -1,11 +1,3 @@
--- 1174180's Lua and Manifest Created by Morrenus
--- Red Dead Redemption 2
--- Created: September 30, 2025 at 09:29:06 EDT
--- Website: https://manifest.morrenus.xyz/
--- Total Depots: 9
--- Total DLCs: 2
--- Shared Depots: 3
-
 -- MAIN APPLICATION
 addappid(1174180) -- Red Dead Redemption 2
 -- MAIN APP DEPOTS

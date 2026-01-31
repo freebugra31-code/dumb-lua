@@ -1,11 +1,3 @@
--- 629820's Lua and Manifest Created by Morrenus
--- Maneater
--- Created: September 29, 2025 at 23:38:54 EDT
--- Website: https://manifest.morrenus.xyz/
--- Total Depots: 5
--- Total DLCs: 1
--- Shared Depots: 4
-
 -- MAIN APPLICATION
 addappid(629820) -- Maneater
 -- MAIN APP DEPOTS

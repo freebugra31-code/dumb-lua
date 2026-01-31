@@ -1,11 +1,3 @@
--- 2958130's Lua and Manifest Created by Morrenus
--- Jurassic World Evolution 3
--- Created: October 22, 2025 at 06:53:14 EDT
--- Website: https://manifest.morrenus.xyz/
--- Total Depots: 2
--- Total DLCs: 2
--- Shared Depots: 1
-
 -- MAIN APPLICATION
 addappid(2958130, 1, "28c45829d1af12623b4fead679e384291bfb040d0241fc6be9d05f7d4cdbbd62") -- Jurassic World Evolution 3
 -- MAIN APP DEPOTS
