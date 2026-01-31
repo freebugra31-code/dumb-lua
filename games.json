@@ -2490,8 +2490,13 @@
     "lua": "plugins/1237320.lua"
   },
   {
-    "name": "Dead Space ",
+    "name": "Dead Space",
     "app_id": 1693980,
     "lua": "plugins/1693980.lua"
+  },
+  {
+    "name": "Medal of Honor™",
+    "app_id": 47790,
+    "lua": "plugins/47790.lua"
   }
 ]
