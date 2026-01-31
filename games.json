@@ -2508,5 +2508,10 @@
     "name": "PROTOTYPE 2",
     "app_id": 115320,
     "lua": "plugins/115320.lua"
+  },
+  {
+    "name": "Just Cause 2",
+    "app_id": 8190,
+    "lua": "plugins/8190.lua"
   }
 ]
