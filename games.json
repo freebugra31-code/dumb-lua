@@ -2483,5 +2483,10 @@
     "name": "Scam Line",
     "app_id": 2794590,
     "lua": "plugins/2794590.lua"
+  },
+  {
+    "name": "Sonic Frontiers",
+    "app_id": 1237320,
+    "lua": "plugins/1237320.lua"
   }
 ]
