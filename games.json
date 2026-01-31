@@ -2470,7 +2470,7 @@
     "lua": "plugins/12200.lua"
   },
   {
-    "name": "F1® 25",
+    "name": "F1 25",
     "app_id": 3059520,
     "lua": "plugins/3059520.lua"
   }
