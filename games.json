@@ -2498,5 +2498,10 @@
     "name": "Medal of Honor™",
     "app_id": 47790,
     "lua": "plugins/47790.lua"
+  },
+  {
+    "name": "L.A. Noire",
+    "app_id": 110800,
+    "lua": "plugins/110800.lua"
   }
 ]
