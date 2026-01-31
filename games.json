@@ -2473,5 +2473,10 @@
     "name": "F1 25",
     "app_id": 3059520,
     "lua": "plugins/3059520.lua"
+  },
+  {
+    "name": "Half Sword",
+    "app_id": 2397300,
+    "lua": "plugins/2397300.lua"
   }
 ]
