@@ -2523,5 +2523,10 @@
     "name": "Cairn",
     "app_id": 1588550,
     "lua": "plugins/1588550.lua"
+  },
+  {
+    "name": "MIO: Memories in Orbit",
+    "app_id": 1672810,
+    "lua": "plugins/1672810.lua"
   }
 ]
