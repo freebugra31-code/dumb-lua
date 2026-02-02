@@ -2528,5 +2528,10 @@
     "name": "MIO: Memories in Orbit",
     "app_id": 1672810,
     "lua": "plugins/1672810.lua"
+  },
+  {
+    "name": "Tatari",
+    "app_id": 1847420,
+    "lua": "plugins/1847420.lua"
   }
 ]
