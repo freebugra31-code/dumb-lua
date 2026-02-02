@@ -2533,5 +2533,10 @@
     "name": "Tatari",
     "app_id": 1847420,
     "lua": "plugins/1847420.lua"
+  },
+  {
+    "name": "Grand Theft Auto: San Andreas - The Definitive Edition",
+    "app_id": 1547000,
+    "lua": "plugins/1547000.lua"
   }
 ]
