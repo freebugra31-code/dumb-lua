@@ -2538,5 +2538,10 @@
     "name": "Grand Theft Auto: San Andreas - The Definitive Edition",
     "app_id": 1547000,
     "lua": "plugins/1547000.lua"
+  },
+  {
+    "name": "Sons Of The Forest",
+    "app_id": 1326470,
+    "lua": "plugins/1326470.lua"
   }
 ]
