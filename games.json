@@ -2543,5 +2543,10 @@
     "name": "Sons Of The Forest",
     "app_id": 1326470,
     "lua": "plugins/1326470.lua"
+  },
+  {
+    "name": "BIGFOOT",
+    "app_id": 509980,
+    "lua": "plugins/509980.lua"
   }
 ]
