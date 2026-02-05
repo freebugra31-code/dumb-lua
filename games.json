@@ -2568,5 +2568,10 @@
     "name": "Vampires: Bloodlord Rising",
     "app_id": 2191500,
     "lua": "plugins/2191500.lua"
+  },
+  {
+    "name": "HackHub Ultimate Hacker Simulator",
+    "app_id": 2980270,
+    "lua": "plugins/2980270.lua"
   }
 ]
