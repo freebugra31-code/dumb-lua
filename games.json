@@ -2578,5 +2578,10 @@
     "name": "Exotica 2 Pet Shop Simulator",
     "app_id": 2824380,
     "lua": "plugins/2824380.lua"
+  },
+  {
+    "name": "The You Quiz",
+    "app_id": 3669740,
+    "lua": "plugins/3669740.lua"
   }
 ]
