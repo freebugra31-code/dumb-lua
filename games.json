@@ -2563,5 +2563,10 @@
     "name": "Occupy Mars: The Game",
     "app_id": 758690,
     "lua": "plugins/758690.lua"
+  },
+  {
+    "name": "Vampires: Bloodlord Rising",
+    "app_id": 2191500,
+    "lua": "plugins/2191500.lua"
   }
 ]
