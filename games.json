@@ -2573,5 +2573,10 @@
     "name": "HackHub Ultimate Hacker Simulator",
     "app_id": 2980270,
     "lua": "plugins/2980270.lua"
+  },
+  {
+    "name": "Exotica 2 Pet Shop Simulator",
+    "app_id": 2824380,
+    "lua": "plugins/2824380.lua"
   }
 ]
