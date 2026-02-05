@@ -2558,5 +2558,10 @@
     "name": "Megastore Simulator",
     "app_id": 3819640,
     "lua": "plugins/3819640.lua"
+  },
+  {
+    "name": "Occupy Mars: The Game",
+    "app_id": 758690,
+    "lua": "plugins/758690.lua"
   }
 ]
