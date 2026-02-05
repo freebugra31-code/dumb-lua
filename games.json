@@ -2548,5 +2548,10 @@
     "name": "BIGFOOT",
     "app_id": 509980,
     "lua": "plugins/509980.lua"
+  },
+  {
+    "name": "YAPYAP",
+    "app_id": 3834090,
+    "lua": "plugins/3834090.lua"
   }
 ]
