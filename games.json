@@ -2583,5 +2583,10 @@
     "name": "The You Quiz",
     "app_id": 3669740,
     "lua": "plugins/3669740.lua"
+  },
+  {
+    "name": "Nioh 3",
+    "app_id": 3681010,
+    "lua": "plugins/3681010.lua"
   }
 ]
