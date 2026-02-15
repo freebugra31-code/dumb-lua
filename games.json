@@ -2588,5 +2588,10 @@
     "name": "Nioh 3",
     "app_id": 3681010,
     "lua": "plugins/3681010.lua"
+  },
+  {
+    "name": "REANIMAL",
+    "app_id": 2129530,
+    "lua": "plugins/2129530.lua"
   }
 ]
