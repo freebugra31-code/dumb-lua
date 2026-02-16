@@ -2593,5 +2593,10 @@
     "name": "REANIMAL",
     "app_id": 2129530,
     "lua": "plugins/2129530.lua"
+  },
+  {
+    "name": "Perfume Atelier",
+    "app_id": 3962270,
+    "lua": "plugins/3962270.lua"
   }
 ]
