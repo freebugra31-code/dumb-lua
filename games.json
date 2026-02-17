@@ -2608,5 +2608,10 @@
     "name": "MyVoiceZoo",
     "app_id": 4015530,
     "lua": "plugins/4015530.lua"
+  },
+  {
+    "name": "My Voice Zoo",
+    "app_id": 4015530,
+    "lua": "plugins/4015530.lua"
   }
 ]
