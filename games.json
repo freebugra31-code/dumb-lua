@@ -2603,5 +2603,10 @@
     "name": "The Sims 4 FULL DLC",
     "app_id": 1222670,
     "lua": "plugins/1222670.lua"
+  },
+  {
+    "name": "MyVoiceZoo",
+    "app_id": 4015530,
+    "lua": "plugins/4015530.lua"
   }
 ]
