@@ -2598,5 +2598,10 @@
     "name": "Perfume Atelier",
     "app_id": 3962270,
     "lua": "plugins/3962270.lua"
+  },
+  {
+    "name": "Sims 4 FULL DLC",
+    "app_id": Sims 4 FULL DLC,
+    "lua": "plugins/Sims 4 FULL DLC.lua"
   }
 ]
