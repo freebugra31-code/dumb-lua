@@ -2618,5 +2618,10 @@
     "name": "Log Riders",
     "app_id": 4082750,
     "lua": "plugins/4082750.lua"
+  },
+  {
+    "name": "Crosshair X",
+    "app_id": 1366800,
+    "lua": "plugins/1366800.lua"
   }
 ]
