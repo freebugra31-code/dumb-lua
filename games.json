@@ -2628,5 +2628,10 @@
     "name": "Ghost Janitors",
     "app_id": 2772990,
     "lua": "plugins/2772990.lua"
+  },
+  {
+    "name": "Tomb Raider FULL DLC",
+    "app_id": 203160,
+    "lua": "plugins/203160.lua"
   }
 ]
