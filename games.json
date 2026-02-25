@@ -2623,5 +2623,10 @@
     "name": "Crosshair X",
     "app_id": 1366800,
     "lua": "plugins/1366800.lua"
+  },
+  {
+    "name": "Ghost Janitors",
+    "app_id": 2772990,
+    "lua": "plugins/2772990.lua"
   }
 ]
