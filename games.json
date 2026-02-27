@@ -2653,5 +2653,10 @@
     "name": "Resident Evil 7 Biohazard",
     "app_id": 418370,
     "lua": "plugins/418370.lua"
+  },
+  {
+    "name": "Resident Evil Village",
+    "app_id": 1196590,
+    "lua": "plugins/1196590.lua"
   }
 ]
