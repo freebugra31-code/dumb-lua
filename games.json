@@ -2648,5 +2648,10 @@
     "name": "Resident Evil 3",
     "app_id": 952060,
     "lua": "plugins/952060.lua"
+  },
+  {
+    "name": "Resident Evil 7 Biohazard",
+    "app_id": 418370,
+    "lua": "plugins/418370.lua"
   }
 ]
