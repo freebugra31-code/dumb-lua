@@ -2643,5 +2643,10 @@
     "name": "Resident Evil 2",
     "app_id": 883710,
     "lua": "plugins/883710.lua"
+  },
+  {
+    "name": "Resident Evil 3",
+    "app_id": 952060,
+    "lua": "plugins/952060.lua"
   }
 ]
