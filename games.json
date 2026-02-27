@@ -2638,5 +2638,10 @@
     "name": "Resident Evil Requiem",
     "app_id": 3764200,
     "lua": "plugins/3764200.lua"
+  },
+  {
+    "name": "Resident Evil 2",
+    "app_id": 883710,
+    "lua": "plugins/883710.lua"
   }
 ]
