@@ -2648,5 +2648,10 @@
     "name": "Resident Evil Village",
     "app_id": 1196590,
     "lua": "plugins/1196590.lua"
+  },
+  {
+    "name": "Coffie Simulator",
+    "app_id": 3453530,
+    "lua": "plugins/3453530.lua"
   }
 ]
