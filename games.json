@@ -2653,5 +2653,10 @@
     "name": "Coffie Simulator",
     "app_id": 3453530,
     "lua": "plugins/3453530.lua"
+  },
+  {
+    "name": "Poker Night at the Inventory",
+    "app_id": 3897800,
+    "lua": "plugins/3897800.lua"
   }
 ]
