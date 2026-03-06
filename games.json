@@ -2658,5 +2658,10 @@
     "name": "Poker Night at the Inventory",
     "app_id": 3897800,
     "lua": "plugins/3897800.lua"
+  },
+  {
+    "name": "Shadow of the Tomb Raider",
+    "app_id": 750920,
+    "lua": "plugins/750920.lua"
   }
 ]
