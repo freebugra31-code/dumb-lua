@@ -2663,5 +2663,10 @@
     "name": "Shadow of the Tomb Raider",
     "app_id": 750920,
     "lua": "plugins/750920.lua"
+  },
+  {
+    "name": "KLETKA",
+    "app_id": 1699480,
+    "lua": "plugins/1699480.lua"
   }
 ]
