@@ -2668,5 +2668,10 @@
     "name": "KLETKA",
     "app_id": 1699480,
     "lua": "plugins/1699480.lua"
+  },
+  {
+    "name": "Pizza Slice",
+    "app_id": 1385290,
+    "lua": "plugins/1385290.lua"
   }
 ]

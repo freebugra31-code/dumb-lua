@@ -1,0 +1,4 @@
+addappid(1385290) -- Pizza Slice
+-- MAIN APP DEPOTS
+addappid(1385291, 1, "8ee772ce1556b584ca68c7e5b986c8c13b8ae8f3fb93b690cb955999f60b23c3") -- Depot 1385291
+setManifestid(1385291, "8849636009508778759")
