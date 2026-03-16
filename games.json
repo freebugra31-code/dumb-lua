@@ -2673,5 +2673,10 @@
     "name": "Pizza Slice",
     "app_id": 1385290,
     "lua": "plugins/1385290.lua"
+  },
+  {
+    "name": "LANESPLIT",
+    "app_id": 3278310,
+    "lua": "plugins/3278310.lua"
   }
 ]
