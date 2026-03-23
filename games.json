@@ -2678,5 +2678,10 @@
     "name": "LANESPLIT",
     "app_id": 3278310,
     "lua": "plugins/3278310.lua"
+  },
+  {
+    "name": "Party Animals DLC",
+    "app_id": 1260320,
+    "lua": "plugins/1260320.lua"
   }
 ]
