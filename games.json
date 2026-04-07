@@ -2683,5 +2683,10 @@
     "name": "Party Animals DLC",
     "app_id": 1260320,
     "lua": "plugins/1260320.lua"
+  },
+  {
+    "name": "Hacked: The Streamer",
+    "app_id": 2425130,
+    "lua": "plugins/2425130.lua"
   }
 ]
