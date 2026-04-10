@@ -200,11 +200,6 @@
     "lua": "plugins/1222700.lua"
   },
   {
-    "name": "Cyberpunk 2077: Phantom Liberty",
-    "app_id": 2138330,
-    "lua": "plugins/2138330.lua"
-  },
-  {
     "name": "Wrap House Simulator🌯",
     "app_id": 3533100,
     "lua": "plugins/35331000.lua"
