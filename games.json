@@ -2688,5 +2688,10 @@
     "name": "Hacked: The Streamer",
     "app_id": 2425130,
     "lua": "plugins/2425130.lua"
+  },
+  {
+    "name": "Assetto Corsa",
+    "app_id": 244210,
+    "lua": "plugins/244210.lua"
   }
 ]
