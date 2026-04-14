@@ -2698,5 +2698,10 @@
     "name": "REMATCH",
     "app_id": 2138720,
     "lua": "plugins/2138720.lua"
+  },
+  {
+    "name": "Streamer Life Simulator 2",
+    "app_id": 2890830,
+    "lua": "plugins/2890830.lua"
   }
 ]
