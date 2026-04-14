@@ -2688,5 +2688,10 @@
     "name": "Assetto Corsa",
     "app_id": 244210,
     "lua": "plugins/244210.lua"
+  },
+  {
+    "name": "REPLACED",
+    "app_id": 1663850,
+    "lua": "plugins/1663850.lua"
   }
 ]
