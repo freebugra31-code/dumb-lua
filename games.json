@@ -2703,5 +2703,10 @@
     "name": "Streamer Life Simulator 2",
     "app_id": 2890830,
     "lua": "plugins/2890830.lua"
+  },
+  {
+    "name": "MOUSE: P.I. For Hire",
+    "app_id": 2416450,
+    "lua": "plugins/2416450.lua"
   }
 ]
