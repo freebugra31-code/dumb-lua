@@ -2708,5 +2708,10 @@
     "name": "MOUSE: P.I. For Hire",
     "app_id": 2416450,
     "lua": "plugins/2416450.lua"
+  },
+  {
+    "name": "MOUSE Pi For Hire",
+    "app_id": 2416450,
+    "lua": "plugins/2416450.lua"
   }
 ]
