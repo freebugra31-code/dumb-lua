@@ -2718,5 +2718,10 @@
     "name": "Don't Play This",
     "app_id": 3319120,
     "lua": "plugins/3319120.lua"
+  },
+  {
+    "name": "iblis3phenomena",
+    "app_id": 3772080,
+    "lua": "plugins/3772080.lua"
   }
 ]
