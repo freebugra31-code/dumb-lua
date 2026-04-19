@@ -2713,5 +2713,10 @@
     "name": "MOUSE Pi For Hire",
     "app_id": 2416450,
     "lua": "plugins/2416450.lua"
+  },
+  {
+    "name": "Don't Play This",
+    "app_id": 3319120,
+    "lua": "plugins/3319120.lua"
   }
 ]
