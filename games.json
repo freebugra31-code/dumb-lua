@@ -2728,5 +2728,10 @@
     "name": "Hozy",
     "app_id": 3326230,
     "lua": "plugins/3326230.lua"
+  },
+  {
+    "name": "Cooking Simulator 2: Better Together",
+    "app_id": 2455360,
+    "lua": "plugins/2455360.lua"
   }
 ]
