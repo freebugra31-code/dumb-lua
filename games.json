@@ -2723,5 +2723,10 @@
     "name": "iblis3phenomena",
     "app_id": 3772080,
     "lua": "plugins/3772080.lua"
+  },
+  {
+    "name": "Hozy",
+    "app_id": 3326230,
+    "lua": "plugins/3326230.lua"
   }
 ]
