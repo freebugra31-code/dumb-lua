@@ -2733,5 +2733,10 @@
     "name": "Cooking Simulator 2: Better Together",
     "app_id": 2455360,
     "lua": "plugins/2455360.lua"
+  },
+  {
+    "name": "Planet Zoo",
+    "app_id": 703080,
+    "lua": "plugins/703080.lua"
   }
 ]
