@@ -2738,5 +2738,10 @@
     "name": "Planet Zoo",
     "app_id": 703080,
     "lua": "plugins/703080.lua"
+  },
+  {
+    "name": "Dead by Daylight",
+    "app_id": 381210,
+    "lua": "plugins/381210.lua"
   }
 ]
