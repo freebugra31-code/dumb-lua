@@ -2743,5 +2743,10 @@
     "name": "Dead by Daylight",
     "app_id": 381210,
     "lua": "plugins/381210.lua"
+  },
+  {
+    "name": "Subnautica 2",
+    "app_id": 1962700,
+    "lua": "plugins/1962700.lua"
   }
 ]
