@@ -2748,5 +2748,10 @@
     "name": "Subnautica 2",
     "app_id": 1962700,
     "lua": "plugins/1962700.lua"
+  },
+  {
+    "name": "Forza Horizon 6",
+    "app_id": 2483190,
+    "lua": "plugins/2483190.lua"
   }
 ]
