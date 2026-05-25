@@ -2758,5 +2758,10 @@
     "name": "Dont Panic It is Just Turbulence",
     "app_id": 4187140,
     "lua": "plugins/4187140.lua"
+  },
+  {
+    "name": "Paralives",
+    "app_id": 1118520,
+    "lua": "plugins/1118520.lua"
   }
 ]
