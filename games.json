@@ -2773,5 +2773,10 @@
     "name": "LEGO Batman Legacy of the Dark Knight",
     "app_id": 2215200,
     "lua": "plugins/2215200.lua"
+  },
+  {
+    "name": "The Outlast Trials",
+    "app_id": 1304930,
+    "lua": "plugins/1304930.lua"
   }
 ]
