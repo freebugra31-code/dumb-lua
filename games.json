@@ -2763,5 +2763,15 @@
     "name": "Paralives",
     "app_id": 1118520,
     "lua": "plugins/1118520.lua"
+  },
+  {
+    "name": "PRAGMATA",
+    "app_id": 3357650,
+    "lua": "plugins/3357650.lua"
+  },
+  {
+    "name": "LEGO Batman Legacy of the Dark Knight",
+    "app_id": 2215200,
+    "lua": "plugins/2215200.lua"
   }
 ]
