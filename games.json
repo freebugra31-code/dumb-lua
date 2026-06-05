@@ -2778,5 +2778,10 @@
     "name": "The Outlast Trials",
     "app_id": 1304930,
     "lua": "plugins/1304930.lua"
+  },
+  {
+    "name": "Outbound",
+    "app_id": 2681030,
+    "lua": "plugins/2681030.lua"
   }
 ]
