@@ -2783,5 +2783,10 @@
     "name": "Outbound",
     "app_id": 2681030,
     "lua": "plugins/2681030.lua"
+  },
+  {
+    "name": "Gothic 1 Remake",
+    "app_id": 1297900,
+    "lua": "plugins/1297900.lua"
   }
 ]
