@@ -2788,5 +2788,10 @@
     "name": "Gothic 1 Remake",
     "app_id": 1297900,
     "lua": "plugins/1297900.lua"
+  },
+  {
+    "name": "MECCHA CHAMELEON",
+    "app_id": 4704690,
+    "lua": "plugins/4704690.lua"
   }
 ]
