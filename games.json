@@ -2793,5 +2793,10 @@
     "name": "MECCHA CHAMELEON",
     "app_id": 4704690,
     "lua": "plugins/4704690.lua"
+  },
+  {
+    "name": "Leaf it Alone",
+    "app_id": 3981100,
+    "lua": "plugins/3981100.lua"
   }
 ]
