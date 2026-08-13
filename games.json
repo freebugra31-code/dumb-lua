@@ -2798,5 +2798,10 @@
     "name": "Leaf it Alone",
     "app_id": 3981100,
     "lua": "plugins/3981100.lua"
+  },
+  {
+    "name": "Big Walk",
+    "app_id": 1478500,
+    "lua": "plugins/1478500.lua"
   }
 ]
