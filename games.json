@@ -2803,5 +2803,10 @@
     "name": "Big Walk",
     "app_id": 1478500,
     "lua": "plugins/1478500.lua"
+  },
+  {
+    "name": "Leafy Corner",
+    "app_id": 3558600,
+    "lua": "plugins/3558600.lua"
   }
 ]
