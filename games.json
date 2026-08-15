@@ -2818,5 +2818,10 @@
     "name": "Rusty Lake Hotel",
     "app_id": 435120,
     "lua": "plugins/435120.lua"
+  },
+  {
+    "name": "Rusty Lake Roots",
+    "app_id": 532110,
+    "lua": "plugins/532110.lua"
   }
 ]
