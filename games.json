@@ -2813,5 +2813,10 @@
     "name": "Cozy Cleaner",
     "app_id": 2742710,
     "lua": "plugins/2742710.lua"
+  },
+  {
+    "name": "Rusty Lake Hotel",
+    "app_id": 435120,
+    "lua": "plugins/435120.lua"
   }
 ]
