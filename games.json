@@ -2823,5 +2823,10 @@
     "name": "Rusty Lake Roots",
     "app_id": 532110,
     "lua": "plugins/532110.lua"
+  },
+  {
+    "name": "Vacation Cafe Simulator",
+    "app_id": 3196440,
+    "lua": "plugins/3196440.lua"
   }
 ]
