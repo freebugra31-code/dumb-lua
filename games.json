@@ -2828,5 +2828,10 @@
     "name": "Vacation Cafe Simulator",
     "app_id": 3196440,
     "lua": "plugins/3196440.lua"
+  },
+  {
+    "name": "Halloween The Game",
+    "app_id": 3219630,
+    "lua": "plugins/3219630.lua"
   }
 ]
