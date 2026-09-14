@@ -2833,5 +2833,10 @@
     "name": "Halloween The Game",
     "app_id": 3219630,
     "lua": "plugins/3219630.lua"
+  },
+  {
+    "name": "Cozy Organizer",
+    "app_id": 3415240,
+    "lua": "plugins/3415240.lua"
   }
 ]
