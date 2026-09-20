@@ -2840,8 +2840,8 @@
     "lua": "plugins/3415240.lua"
   },
   {
-    "name": "Neat!",
-    "app_id": 4300090,
-    "lua": "plugins/4300090.lua"
+    "name": "Sort Them Ducks",
+    "app_id": 4992070,
+    "lua": "plugins/4992070.lua"
   }
 ]
