@@ -2848,5 +2848,10 @@
     "name": "Happy Wheels",
     "app_id": 4705510,
     "lua": "plugins/4705510.lua"
+  },
+  {
+    "name": "Moo Who?",
+    "app_id": 4948000,
+    "lua": "plugins/4948000.lua"
   }
 ]
