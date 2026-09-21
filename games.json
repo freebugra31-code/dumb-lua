@@ -2843,5 +2843,10 @@
     "name": "Sort Them Ducks",
     "app_id": 4992070,
     "lua": "plugins/4992070.lua"
+  },
+  {
+    "name": "Happy Wheels",
+    "app_id": 4705510,
+    "lua": "plugins/4705510.lua"
   }
 ]
